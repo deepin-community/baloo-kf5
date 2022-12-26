@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-04-29 00:15+0000\n"
+"POT-Creation-Date: 2021-12-08 00:42+0000\n"
 "PO-Revision-Date: 2019-04-13 20:50+0100\n"
 "Last-Translator: Stefan Asserhäll <stefan.asserhall@bredband.net>\n"
 "Language-Team: Swedish <kde-i18n-doc@kde.org>\n"
@@ -27,47 +27,47 @@ msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
 msgstr "stefan.asserhall@bredband.net"
 
-#: main.cpp:46
+#: main.cpp:57
 #, kde-format
 msgid "Baloo Show"
 msgstr "Baloo-visare"
 
-#: main.cpp:48
+#: main.cpp:59
 #, kde-format
 msgid "The Baloo data Viewer - A debugging tool"
 msgstr "Baloo-datavisare - ett felsökningsverktyg"
 
-#: main.cpp:50
+#: main.cpp:61
 #, kde-format
 msgid "(c) 2012, Vishesh Handa"
 msgstr "© 2012, Vishesh Handa"
 
-#: main.cpp:55
+#: main.cpp:66
 #, kde-format
 msgid "Urls, document ids or inodes of the files"
 msgstr "Webbadresser, dokument-id eller filernas inoder"
 
-#: main.cpp:57
+#: main.cpp:68
 #, kde-format
 msgid "Print internal info"
 msgstr "Skriv ut intern information"
 
-#: main.cpp:59
+#: main.cpp:70
 #, kde-format
 msgid "Arguments are interpreted as inode numbers (requires -d)"
 msgstr "Argumenten tolkas som inod-nummer (kräver -d)"
 
-#: main.cpp:61
+#: main.cpp:72
 #, kde-format
 msgid "Device id for the files"
 msgstr "Enhets-id för filerna"
 
-#: main.cpp:84
+#: main.cpp:95
 #, kde-format
 msgid "Error: -i requires specifying a device (-d <deviceId>)"
 msgstr "Fel: -i kräver att en enhet anges (-d <deviceId>)"
 
-#: main.cpp:90
+#: main.cpp:101
 #, kde-format
 msgid ""
 "The Baloo index could not be opened. Please run \"%1\" to see if Baloo is "
@@ -76,47 +76,47 @@ msgstr ""
 "Baloo-indexet kunde inte öppnas. Kör \"%1\" för att se om Baloo är aktiverat "
 "och fungerade."
 
-#: main.cpp:107
+#: main.cpp:118
 #, kde-format
 msgid "The document IDs of the Baloo DB and the filesystem are different:"
 msgstr "Dokument-id i Baloos databas och filsystemet är olika:"
 
-#: main.cpp:126
+#: main.cpp:137
 #, kde-format
 msgid "%1: Not a valid url or document id"
 msgstr "%1: Inte en giltig webbadress eller dokument-id"
 
-#: main.cpp:140
+#: main.cpp:151
 #, kde-format
 msgid "%1: Failed to parse inode number"
 msgstr "%1: Misslyckades tolka inod-nummer"
 
-#: main.cpp:164
+#: main.cpp:175
 #, kde-format
 msgid "%1: No index information found"
 msgstr "%1: Ingen indexinformation hittades"
 
-#: main.cpp:213
+#: main.cpp:224
 #, kde-format
 msgid "Internal Info"
 msgstr "Intern information"
 
-#: main.cpp:214
+#: main.cpp:225
 #, kde-format
 msgid "Terms: %1"
 msgstr "Termer: %1"
 
-#: main.cpp:215
+#: main.cpp:226
 #, kde-format
 msgid "File Name Terms: %1"
 msgstr "Filnamnstermer: %1"
 
-#: main.cpp:216
+#: main.cpp:227
 #, kde-format
 msgid "%1 Terms: %2"
 msgstr "%1 termer: %2"
 
-#: main.cpp:219
+#: main.cpp:230
 #, kde-format
 msgctxt "Prefix string for internal errors"
 msgid "Internal Error - %1"

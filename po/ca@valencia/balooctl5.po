@@ -1,17 +1,17 @@
 # Translation of balooctl5.po to Catalan (Valencian)
-# Copyright (C) 2014-2019 This_file_is_part_of_KDE
+# Copyright (C) 2014-2020 This_file_is_part_of_KDE
 # This file is distributed under the license LGPL version 2.1 or
 # version 3 or later versions approved by the membership of KDE e.V.
 #
-# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2015.
-# Josep Ma. Ferrer <txemaq@gmail.com>, 2015, 2016, 2017, 2018, 2019.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2014, 2015, 2020.
+# Josep M. Ferrer <txemaq@gmail.com>, 2015, 2016, 2017, 2018, 2019, 2020.
 msgid ""
 msgstr ""
 "Project-Id-Version: baloo\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-19 00:15+0000\n"
-"PO-Revision-Date: 2019-06-11 19:32+0100\n"
-"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"PO-Revision-Date: 2020-09-06 13:25+0100\n"
+"Last-Translator: Josep M. Ferrer <txemaq@gmail.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca@valencia\n"
 "MIME-Version: 1.0\n"
@@ -37,25 +37,24 @@ msgid "Manipulate the Baloo configuration"
 msgstr "Manipula la configuració del Baloo"
 
 #: configcommand.cpp:68
-#, fuzzy, kde-format
-#| msgid "The config command can be used to manipulate the Baloo Configuration"
+#, kde-format
 msgid "The config command can be used to manipulate the Baloo Configuration\n"
 msgstr ""
-"L'ordre «config» es pot utilitzar per a manipular la configuració del Baloo"
+"L'ordre «config» es pot utilitzar per a manipular la configuració del Baloo\n"
 
 #: configcommand.cpp:69
-#, fuzzy, kde-format
-#| msgid "Usage: balooctl config <command>"
+#, kde-format
 msgid ""
 "Usage: balooctl config <command>\n"
 "\n"
-msgstr "Ús: balooctl config <command>"
+msgstr ""
+"Ús: balooctl config <command>\n"
+"\n"
 
 #: configcommand.cpp:70
-#, fuzzy, kde-format
-#| msgid "Possible Commands:"
+#, kde-format
 msgid "Possible Commands:\n"
-msgstr "Ordres possibles:"
+msgstr "Ordres possibles:\n"
 
 #: configcommand.cpp:73
 #, kde-format
@@ -83,12 +82,13 @@ msgid "Display this help menu"
 msgstr "Mostra aquest menú d'ajuda"
 
 #: configcommand.cpp:83
-#, fuzzy, kde-format
-#| msgid "The following configuration options may be listed:"
+#, kde-format
 msgid ""
 "The following configuration options may be listed:\n"
 "\n"
-msgstr "Es poden llistar les opcions de configuració següents:"
+msgstr ""
+"Es poden llistar les opcions de configuració següents:\n"
+"\n"
 
 #: configcommand.cpp:85 configcommand.cpp:364
 #, kde-format
@@ -113,117 +113,108 @@ msgstr "La llista de les carpetes indexades que el Baloo no indexarà mai"
 #: configcommand.cpp:89 configcommand.cpp:152 configcommand.cpp:243
 #, kde-format
 msgid "The list of filters which are used to exclude files"
-msgstr "La llista de filtres que s'usen per excloure fitxers"
+msgstr "La llista dels filtres que s'usen per a excloure fitxers"
 
 #: configcommand.cpp:90 configcommand.cpp:153 configcommand.cpp:244
 #, kde-format
 msgid "The list of mimetypes which are used to exclude files"
-msgstr "La llista de tipus MIME que s'usen per excloure fitxers"
+msgstr "La llista dels tipus MIME que s'usen per a excloure fitxers"
 
 #: configcommand.cpp:142 configcommand.cpp:233 configcommand.cpp:356
 #: configcommand.cpp:426
-#, fuzzy, kde-format
-#| msgid "Config parameter could not be found"
+#, kde-format
 msgid "Config parameter could not be found\n"
-msgstr "No s'ha pogut trobar el paràmetre «config»"
+msgstr "No s'ha pogut trobar el paràmetre «config»\n"
 
 #: configcommand.cpp:148 configcommand.cpp:239 configcommand.cpp:362
-#, fuzzy, kde-format
-#| msgid "The following configuration options may be modified:"
+#, kde-format
 msgid ""
 "The following configuration options may be modified:\n"
 "\n"
-msgstr "Es poden modificar les opcions de configuració següents:"
+msgstr ""
+"Es poden modificar les opcions de configuració següents:\n"
+"\n"
 
 #: configcommand.cpp:161 configcommand.cpp:181 configcommand.cpp:252
 #: configcommand.cpp:287
-#, fuzzy, kde-format
-#| msgid "A folder must be provided"
+#, kde-format
 msgid "A folder must be provided\n"
-msgstr "Cal indicar una carpeta"
+msgstr "Cal indicar una carpeta\n"
 
 #: configcommand.cpp:169
 #, kde-format
 msgid "%1 is not in the list of include folders"
-msgstr "%1 no es troba a la llista de carpetes a incloure"
+msgstr "%1 no es troba a la llista de les carpetes a incloure"
 
 #: configcommand.cpp:189
 #, kde-format
 msgid "%1 is not in the list of exclude folders"
-msgstr "%1 no es troba a la llista de carpetes a excloure"
+msgstr "%1 no es troba a la llista de les carpetes a excloure"
 
 #: configcommand.cpp:201 configcommand.cpp:322
-#, fuzzy, kde-format
-#| msgid "A filter must be provided"
+#, kde-format
 msgid "A filter must be provided\n"
-msgstr "Cal indicar un filtre"
+msgstr "Cal indicar un filtre\n"
 
 #: configcommand.cpp:207
 #, kde-format
 msgid "%1 is not in list of exclude filters"
-msgstr "%1 no es troba a la llista de filtres d'exclusió"
+msgstr "%1 no es troba a la llista dels filtres d'exclusió"
 
 #: configcommand.cpp:218 configcommand.cpp:340
-#, fuzzy, kde-format
-#| msgid "A mimetype must be provided"
+#, kde-format
 msgid "A mimetype must be provided\n"
-msgstr "Cal indicar un tipus MIME"
+msgstr "Cal indicar un tipus MIME\n"
 
 #: configcommand.cpp:224
 #, kde-format
 msgid "%1 is not in list of exclude mimetypes"
-msgstr "%1 no es troba a la llista de tipus MIME d'exclusió"
+msgstr "%1 no es troba a la llista dels tipus MIME d'exclusió"
 
 #: configcommand.cpp:258 configcommand.cpp:293
-#, fuzzy, kde-format
-#| msgid "Path does not exist"
+#, kde-format
 msgid "Path does not exist\n"
-msgstr "El camí no existeix"
+msgstr "El camí no existeix\n"
 
 #: configcommand.cpp:263 configcommand.cpp:298
-#, fuzzy, kde-format
-#| msgid "Path is not a directory"
+#, kde-format
 msgid "Path is not a directory\n"
-msgstr "El camí no és cap directori"
+msgstr "El camí no és cap directori\n"
 
 #: configcommand.cpp:270
 #, kde-format
 msgid "%1 is already in the list of include folders"
-msgstr "%1 no es troba a la llista de carpetes a incloure"
+msgstr "%1 ja es troba a la llista de les carpetes a incloure"
 
 #: configcommand.cpp:275 configcommand.cpp:310
 #, kde-format
 msgid "%1 is in the list of exclude folders"
-msgstr "%1 no es troba a la llista de carpetes a excloure"
+msgstr "%1 ja es troba a la llista de les carpetes a excloure"
 
 #: configcommand.cpp:305
 #, kde-format
 msgid "%1 is already in the list of exclude folders"
-msgstr "%1 ja es troba a la llista de carpetes a excloure"
+msgstr "%1 ja es troba a la llista de les carpetes a excloure"
 
 #: configcommand.cpp:328
-#, fuzzy, kde-format
-#| msgid "Exclude filter is already in the list"
+#, kde-format
 msgid "Exclude filter is already in the list\n"
-msgstr "El filtre d'exclusió ja està a la llista"
+msgstr "El filtre d'exclusió ja està a la llista\n"
 
 #: configcommand.cpp:346
-#, fuzzy, kde-format
-#| msgid "Exclude mimetype is already in the list"
+#, kde-format
 msgid "Exclude mimetype is already in the list\n"
-msgstr "El tipus MIME d'exclusió ja està a la llista"
+msgstr "El tipus MIME d'exclusió ja està a la llista\n"
 
 #: configcommand.cpp:374 configcommand.cpp:401
-#, fuzzy, kde-format
-#| msgid "A value must be provided"
+#, kde-format
 msgid "A value must be provided\n"
-msgstr "Cal indicar un valor"
+msgstr "Cal indicar un valor\n"
 
 #: configcommand.cpp:395 configcommand.cpp:422
-#, fuzzy, kde-format
-#| msgid "Invalid value"
+#, kde-format
 msgid "Invalid value\n"
-msgstr "Valor no vàlid"
+msgstr "Valor no vàlid\n"
 
 #: main.cpp:51
 #, kde-format
@@ -325,28 +316,24 @@ msgid "format"
 msgstr "format"
 
 #: monitorcommand.cpp:54
-#, fuzzy, kde-format
-#| msgid "Press ctrl+c to stop monitoring"
+#, kde-format
 msgid "Press ctrl+c to stop monitoring\n"
-msgstr "Premeu Ctrl+c per aturar el monitoratge"
+msgstr "Premeu Ctrl+c per a aturar el monitoratge\n"
 
 #: monitorcommand.cpp:70
-#, fuzzy, kde-format
-#| msgid "Waiting for file indexer to start"
+#, kde-format
 msgid "Waiting for file indexer to start\n"
-msgstr "S'està esperant que s'inicie l'indexador de fitxers"
+msgstr "S'està esperant que s'inicie l'indexador de fitxers\n"
 
 #: monitorcommand.cpp:71
-#, fuzzy, kde-format
-#| msgid "Press ctrl+c to stop monitoring"
+#, kde-format
 msgid "Press Ctrl+C to stop monitoring\n"
-msgstr "Premeu Ctrl+c per aturar el monitoratge"
+msgstr "Premeu Ctrl+C per a aturar el monitoratge\n"
 
 #: monitorcommand.cpp:78
-#, fuzzy, kde-format
-#| msgid "File indexer is running"
+#, kde-format
 msgid "File indexer is running\n"
-msgstr "L'indexador de fitxers s'està executant"
+msgstr "L'indexador de fitxers s'està executant\n"
 
 #: monitorcommand.cpp:94 statuscommand.cpp:308
 #, kde-format
@@ -355,15 +342,14 @@ msgid "Indexing: %1"
 msgstr "Indexació: %1"
 
 #: monitorcommand.cpp:103
-#, fuzzy, kde-format
-#| msgid ": Ok"
+#, kde-format
 msgid ": Ok\n"
-msgstr ": D'acord"
+msgstr ": D'acord\n"
 
 #: monitorcommand.h:32
 #, kde-format
 msgid "CLI interface for monitoring Baloo"
-msgstr ""
+msgstr "Interfície CLI per al monitoratge del Baloo"
 
 #: statuscommand.cpp:33
 #, kde-format
@@ -422,34 +408,30 @@ msgid "File: %1"
 msgstr "Fitxer: %1"
 
 #: statuscommand.cpp:263
-#, fuzzy, kde-format
-#| msgid "Output format \"%1\" is invalid"
+#, kde-format
 msgid "Output format \"%1\" is invalid, use one of:\n"
-msgstr "El format d'eixida «%1» no és vàlid"
+msgstr "El format d'eixida «%1» no és vàlid. Useu-ne un d'entre:\n"
 
 #: statuscommand.cpp:265
 #, kde-format
 msgctxt "bullet list item with output format"
 msgid "- %1\n"
-msgstr ""
+msgstr "- %1\n"
 
 #: statuscommand.cpp:272
-#, fuzzy, kde-format
-#| msgid "Baloo is currently disabled. To enable, please run %1"
+#, kde-format
 msgid "Baloo is currently disabled. To enable, please run %1\n"
-msgstr "Actualment, el Baloo està desactivat. Per activar-lo, executeu %1"
+msgstr "Actualment, el Baloo està desactivat. Per a activar-lo, executeu %1\n"
 
 #: statuscommand.cpp:278
-#, fuzzy, kde-format
-#| msgid "Baloo Index could not be opened"
+#, kde-format
 msgid "Baloo Index could not be opened\n"
-msgstr "No s'ha pogut obrir l'índex del Baloo"
+msgstr "No s'ha pogut obrir l'índex del Baloo\n"
 
 #: statuscommand.cpp:305
-#, fuzzy, kde-format
-#| msgid "Baloo File Indexer is running"
+#, kde-format
 msgid "Baloo File Indexer is running\n"
-msgstr "La indexació de fitxers del Baloo s'està executant"
+msgstr "La indexació de fitxers del Baloo s'està executant\n"
 
 #: statuscommand.cpp:307 statuscommand.cpp:310
 #, kde-format
@@ -457,10 +439,9 @@ msgid "Indexer state: %1"
 msgstr "Estat de l'indexador: %1"
 
 #: statuscommand.cpp:314
-#, fuzzy, kde-format
-#| msgid "Baloo File Indexer is not running"
+#, kde-format
 msgid "Baloo File Indexer is not running\n"
-msgstr "La indexació de fitxers del Baloo no s'està executant"
+msgstr "La indexació de fitxers del Baloo no s'està executant\n"
 
 #: statuscommand.cpp:321
 #, kde-format
@@ -483,7 +464,6 @@ msgid "Current size of index is %1"
 msgstr "La mida actual de l'índex és %1"
 
 #: statuscommand.cpp:333
-#, fuzzy, kde-format
-#| msgid "Index does not exist yet"
+#, kde-format
 msgid "Index does not exist yet\n"
-msgstr "L'índex encara no existeix"
+msgstr "L'índex encara no existeix\n"

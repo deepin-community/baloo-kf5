@@ -1,8 +1,8 @@
 # set minimum version requirements
 cmake_minimum_required(VERSION 3.16)
 set(REQUIRED_QT_VERSION 5.15.2)
-set(KF_VERSION "5.86.0") # handled by release scripts
-set(KF_DEP_VERSION "5.86.0") # handled by release scripts
+set(KF_VERSION "5.90.0") # handled by release scripts
+set(KF_DEP_VERSION "5.90.0") # handled by release scripts
 
 # set up project
 project(Baloo VERSION ${KF_VERSION})
@@ -57,7 +57,11 @@ add_feature_info(EXP ${BUILD_EXPERIMENTAL} "Build experimental features")
 
 
 # set up build dependencies
-find_package(Qt5 ${REQUIRED_QT_VERSION} REQUIRED NO_MODULE COMPONENTS Core DBus Widgets Qml Quick Test)
+find_package(Qt${QT_MAJOR_VERSION} ${REQUIRED_QT_VERSION} REQUIRED NO_MODULE COMPONENTS Core DBus Widgets Qml Quick Test)
+if (QT_MAJOR_VERSION STREQUAL "6")
+    find_package(Qt6Core5Compat)
+endif()
+
 find_package(KF5 ${KF_DEP_VERSION} REQUIRED COMPONENTS CoreAddons Config DBusAddons I18n IdleTime Solid FileMetaData Crash KIO)
 
 find_package(LMDB)
@@ -72,10 +76,8 @@ if(${LMDB_FOUND})
 endif()
 
 # compiler flags and build system
-# TODO look into the QMap::insertMulti usage in kfilemetadata, which have been
-# deprecated in Qt >= 5.15.0
-add_definitions(-DQT_DISABLE_DEPRECATED_BEFORE=0x050e00)
-add_definitions(-DKF_DISABLE_DEPRECATED_BEFORE_AND_AT=0x055100)
+add_definitions(-DQT_DISABLE_DEPRECATED_BEFORE=0x050f00)
+add_definitions(-DKF_DISABLE_DEPRECATED_BEFORE_AND_AT=0x055900)
 
 find_package(Inotify)
 set_package_properties(Inotify PROPERTIES
@@ -150,7 +152,7 @@ install(EXPORT KF5BalooTargets
 
 install(FILES
     "${CMAKE_CURRENT_BINARY_DIR}/baloo_version.h"
-    DESTINATION ${KDE_INSTALL_INCLUDEDIR_KF5}
+    DESTINATION ${KDE_INSTALL_INCLUDEDIR_KF}
     COMPONENT Devel
 )
 

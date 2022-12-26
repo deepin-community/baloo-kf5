@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-06-05 00:13+0000\n"
+"POT-Creation-Date: 2021-12-21 00:39+0000\n"
 "PO-Revision-Date: 2018-09-29 16:41+0200\n"
 "Last-Translator: Kristof Kiszel <kiszel.kristof@gmail.com>\n"
 "Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
@@ -23,17 +23,17 @@ msgstr ""
 msgid "File %1 already has tag %2"
 msgstr "A(z) %1 fájlnak már van %2 címkéje"
 
-#: kio_tags.cpp:306
+#: kio_tags.cpp:309
 #, kde-format
 msgid "Tag"
 msgstr "Címke"
 
-#: kio_tags.cpp:308
+#: kio_tags.cpp:315
 #, kde-format
 msgid "Tag Fragment"
 msgstr "Címkerészlet"
 
-#: kio_tags.cpp:310 kio_tags.cpp:315
+#: kio_tags.cpp:321 kio_tags.cpp:322
 #, kde-format
 msgid "All Tags"
 msgstr "Összes címke"

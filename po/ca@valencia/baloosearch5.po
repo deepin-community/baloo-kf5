@@ -1,16 +1,17 @@
 # Translation of baloosearch5.po to Catalan (Valencian)
-# Copyright (C) 2014-2018 This_file_is_part_of_KDE
+# Copyright (C) 2014-2021 This_file_is_part_of_KDE
 # This file is distributed under the license LGPL version 2.1 or
 # version 3 or later versions approved by the membership of KDE e.V.
 #
-# Josep Ma. Ferrer <txemaq@gmail.com>, 2014, 2015, 2018.
+# Josep M. Ferrer <txemaq@gmail.com>, 2014, 2015, 2018, 2020.
+# Antoni Bella Pérez <antonibella5@yahoo.com>, 2020, 2021.
 msgid ""
 msgstr ""
 "Project-Id-Version: baloo\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-08-19 00:13+0000\n"
-"PO-Revision-Date: 2018-01-28 12:20+0100\n"
-"Last-Translator: Josep Ma. Ferrer <txemaq@gmail.com>\n"
+"PO-Revision-Date: 2021-02-27 12:47+0100\n"
+"Last-Translator: Antoni Bella Pérez <antonibella5@yahoo.com>\n"
 "Language-Team: Catalan <kde-i18n-ca@kde.org>\n"
 "Language: ca@valencia\n"
 "MIME-Version: 1.0\n"
@@ -18,12 +19,12 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Accelerator-Marker: &\n"
-"X-Generator: Lokalize 2.0\n"
+"X-Generator: Lokalize 20.12.2\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "Josep Ma. Ferrer"
+msgstr "Josep M. Ferrer"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
@@ -38,7 +39,7 @@ msgstr "Cerca del Baloo"
 #: main.cpp:29
 #, kde-format
 msgid "A tool to search through the files indexed by Baloo"
-msgstr "Una eina per cercar pels fitxers indexats pel Baloo"
+msgstr "Una eina per a cercar pels fitxers indexats pel Baloo"
 
 #: main.cpp:31
 #, kde-format
@@ -88,7 +89,7 @@ msgstr "directori"
 #: main.cpp:49
 #, kde-format
 msgid "Show document IDs"
-msgstr ""
+msgstr "Mostra els ID dels documents"
 
 #: main.cpp:50
 #, kde-format
@@ -103,7 +104,7 @@ msgstr "Llista de les paraules a consultar"
 #: main.cpp:87
 #, kde-format
 msgid "%1 is not a valid directory"
-msgstr ""
+msgstr "%1 no és un directori vàlid"
 
 #: main.cpp:104
 #, kde-format
