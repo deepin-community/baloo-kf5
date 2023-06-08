@@ -2,67 +2,67 @@
 # This file is distributed under the same license as the PACKAGE package.
 #
 # Svetoslav Stefanov <svetlisashkov@yahoo.com>, 2014.
+# Yasen Pramatarov <yasen@lindeas.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: baloosearch\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-08-19 00:13+0000\n"
-"PO-Revision-Date: 2014-05-17 20:17+0200\n"
-"Last-Translator: Svetoslav Stefanov <svetlisashkov@yahoo.com>\n"
-"Language-Team: BULGARIAN <kde-i18n-doc@kde.org>\n"
+"PO-Revision-Date: 2022-01-27 10:21+0200\n"
+"Last-Translator: Yasen Pramatarov <yasen@lindeas.com>\n"
+"Language-Team: Bulgarian <dict@ludost.net>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
-"X-Generator: Poedit 1.5.4\n"
+"X-Generator: Lokalize 21.08.0\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "Светослав Стефанов"
+msgstr "Минчо Кондарев,Светослав Стефанов"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "svetlisashkov@yahoo.com"
+msgstr "mkondarev@yahoo.de,svetlisashkov@yahoo.com"
 
 #: main.cpp:27
 #, kde-format
 msgid "Baloo Search"
-msgstr "Търсене Baloo"
+msgstr "Търсене с Baloo"
 
 #: main.cpp:29
 #, kde-format
 msgid "A tool to search through the files indexed by Baloo"
-msgstr ""
+msgstr "Инструмент за търсене на файлове, индексирани от Baloo"
 
 #: main.cpp:31
 #, kde-format
 msgid "Vishesh Handa"
-msgstr "Vishesh Handa"
+msgstr "Вишеш Ханда"
 
 #: main.cpp:37
 #, kde-format
 msgid "The maximum number of results"
-msgstr ""
+msgstr "Максималният брой резултати"
 
 #: main.cpp:38
 #, kde-format
 msgid "limit"
-msgstr ""
+msgstr "ограничение"
 
 #: main.cpp:40
-#, fuzzy, kde-format
-#| msgid "Offset from which start the search"
+#, kde-format
 msgid "Offset from which to start the search"
-msgstr "Отместване, от което да започне търсенето"
+msgstr "Отместване за начална позиция на търсенето"
 
 #: main.cpp:41
 #, kde-format
 msgid "offset"
-msgstr ""
+msgstr "отместване"
 
 #: main.cpp:43
 #, kde-format
@@ -72,40 +72,39 @@ msgstr "Вид на данните за търсене"
 #: main.cpp:44
 #, kde-format
 msgid "typeStr"
-msgstr ""
+msgstr "typeStr"
 
 #: main.cpp:46
 #, kde-format
 msgid "Limit search to specified directory"
-msgstr ""
+msgstr "Ограничaване на търсенето до посочената папка"
 
 #: main.cpp:47
 #, kde-format
 msgid "directory"
-msgstr ""
+msgstr "папка"
 
 #: main.cpp:49
 #, kde-format
 msgid "Show document IDs"
-msgstr ""
+msgstr "Показване ID на документи"
 
 #: main.cpp:50
 #, kde-format
 msgid "query"
-msgstr ""
+msgstr "заявка"
 
 #: main.cpp:50
-#, fuzzy, kde-format
-#| msgid "The words to search for"
+#, kde-format
 msgid "List of words to query for"
-msgstr "Думи, за които да се търси"
+msgstr "Списък на думите за търсене"
 
 #: main.cpp:87
 #, kde-format
 msgid "%1 is not a valid directory"
-msgstr ""
+msgstr "%1 не е валидна папка"
 
 #: main.cpp:104
 #, kde-format
 msgid "Elapsed: %1 msecs"
-msgstr ""
+msgstr "Изпълнено за: %1 ms"

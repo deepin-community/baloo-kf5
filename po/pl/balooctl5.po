@@ -463,3 +463,77 @@ msgstr "Bieżący rozmiar indeksu to %1"
 #, kde-format
 msgid "Index does not exist yet\n"
 msgstr "Indeks jeszcze nie istnieje\n"
+
+#~ msgid "Unknown"
+#~ msgstr "Nieznany"
+
+#~ msgid "Idle"
+#~ msgstr "Bezczynny"
+
+#~ msgid "Suspended"
+#~ msgstr "Uśpiony"
+
+#~ msgid "Initial Indexing"
+#~ msgstr "Wstępne indeksowanie"
+
+#~ msgid "Indexing new files"
+#~ msgstr "Indeksowanie nowych plików"
+
+#~ msgid "Indexing modified files"
+#~ msgstr "Indeksowanie zmienionych plików"
+
+#~ msgid "Indexing Extended Attributes"
+#~ msgstr "Indeksowanie rozszerzonych atrybutów"
+
+#~ msgid "Indexing file content"
+#~ msgstr "Indeksowanie zawartości plików"
+
+#~ msgid "Checking for unindexed files"
+#~ msgstr "Szukanie niezaindeksowanych plików"
+
+#~ msgid "Checking for stale index entries"
+#~ msgstr "Szukanie zawieszonych wpisów indeksu"
+
+#~ msgid "Idle (Powersave)"
+#~ msgstr "Bezczynny (oszczędzanie energii)"
+
+#~ msgid "Not Running"
+#~ msgstr "Nieuruchomiony"
+
+#~ msgid "Starting"
+#~ msgstr "Uruchamianie"
+
+#~ msgid "Maintainer"
+#~ msgstr "Opiekun"
+
+#~ msgid "Start the file indexer"
+#~ msgstr "Uruchom program indeksujący"
+
+#~ msgid "Stop the file indexer"
+#~ msgstr "Zatrzymaj program indeksujący"
+
+#~ msgid "Restart the file indexer"
+#~ msgstr "Uruchom ponownie program indeksujący"
+
+#~ msgid "Indexed %1 / %2 files"
+#~ msgstr "Zaindeksowano %1 / %2 plików"
+
+#~ msgid "Parent folder %1 is already in the list of include folders"
+#~ msgstr "Katalog nadrzędny %1 jest już na liście katalogów zaliczonych"
+
+#~ msgid "Parent folder %1 is already in the list of exclude folders"
+#~ msgstr "Katalog nadrzędny %1 jest już na liście katalogów wykluczonych"
+
+#~ msgctxt "Application"
+#~ msgid "%1 is running"
+#~ msgstr "%1 jest uruchomiony"
+
+#~ msgctxt "Application"
+#~ msgid "%1 died"
+#~ msgstr "%1 padło"
+
+#~ msgid "Check database for consistency"
+#~ msgstr "Sprawdź bazę danych na spójność"
+
+#~ msgid "Must provide a value"
+#~ msgstr "Trzeba podać wartość"

@@ -1,8 +1,8 @@
 # set minimum version requirements
 cmake_minimum_required(VERSION 3.16)
 set(REQUIRED_QT_VERSION 5.15.2)
-set(KF_VERSION "5.90.0") # handled by release scripts
-set(KF_DEP_VERSION "5.90.0") # handled by release scripts
+set(KF_VERSION "5.103.0") # handled by release scripts
+set(KF_DEP_VERSION "5.103.0") # handled by release scripts
 
 # set up project
 project(Baloo VERSION ${KF_VERSION})
@@ -46,6 +46,7 @@ include(ECMQtDeclareLoggingCategory)
 include(ECMMarkNonGuiExecutable)
 include(ECMGenerateExportHeader)
 include(ECMConfiguredInstall)
+include(ECMDeprecationSettings)
 
 set(EXCLUDE_DEPRECATED_BEFORE_AND_AT 0 CACHE STRING "Control the range of deprecated API excluded from the build [default=0].")
 
@@ -76,8 +77,10 @@ if(${LMDB_FOUND})
 endif()
 
 # compiler flags and build system
-add_definitions(-DQT_DISABLE_DEPRECATED_BEFORE=0x050f00)
-add_definitions(-DKF_DISABLE_DEPRECATED_BEFORE_AND_AT=0x055900)
+ecm_set_disabled_deprecation_versions(
+    QT 5.15.2
+    KF 5.97
+)
 
 find_package(Inotify)
 set_package_properties(Inotify PROPERTIES
@@ -152,7 +155,7 @@ install(EXPORT KF5BalooTargets
 
 install(FILES
     "${CMAKE_CURRENT_BINARY_DIR}/baloo_version.h"
-    DESTINATION ${KDE_INSTALL_INCLUDEDIR_KF}
+    DESTINATION ${KDE_INSTALL_INCLUDEDIR_KF}/Baloo
     COMPONENT Devel
 )
 

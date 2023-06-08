@@ -1,13 +1,9 @@
-# Copyright (C) YEAR This_file_is_part_of_KDE
-# This file is distributed under the same license as the PACKAGE package.
-#
-# Feng Chao <chaofeng111@gmail.com>, 2014.
 msgid ""
 msgstr ""
 "Project-Id-Version: kdeorg\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-21 00:39+0000\n"
-"PO-Revision-Date: 2021-12-22 14:05\n"
+"POT-Creation-Date: 2022-11-25 00:42+0000\n"
+"PO-Revision-Date: 2023-01-12 10:29\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -21,22 +17,22 @@ msgstr ""
 "X-Crowdin-File: /kf5-trunk/messages/baloo/kio5_tags.pot\n"
 "X-Crowdin-File-ID: 5614\n"
 
-#: kio_tags.cpp:114 kio_tags.cpp:173
+#: kio_tags.cpp:110 kio_tags.cpp:166
 #, kde-format
 msgid "File %1 already has tag %2"
 msgstr "文件 %1 已经分配标签 %2"
 
-#: kio_tags.cpp:309
+#: kio_tags.cpp:298
 #, kde-format
 msgid "Tag"
 msgstr "标签"
 
-#: kio_tags.cpp:315
+#: kio_tags.cpp:304
 #, kde-format
 msgid "Tag Fragment"
 msgstr "标签 Fragment"
 
-#: kio_tags.cpp:321 kio_tags.cpp:322
+#: kio_tags.cpp:316 kio_tags.cpp:317
 #, kde-format
 msgid "All Tags"
 msgstr "所有标签"

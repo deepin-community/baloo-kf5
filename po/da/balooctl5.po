@@ -462,3 +462,72 @@ msgstr "Aktuel størrelse på indeks er %1"
 #, kde-format
 msgid "Index does not exist yet\n"
 msgstr "Indeks findes endnu ikke\n"
+
+#~ msgid "Unknown"
+#~ msgstr "Ukendt"
+
+#~ msgid "Idle"
+#~ msgstr "Tomgang"
+
+#~ msgid "Suspended"
+#~ msgstr "Suspenderet"
+
+#~ msgid "Initial Indexing"
+#~ msgstr "Indledningsvis indeksering"
+
+#~ msgid "Indexing new files"
+#~ msgstr "Indekserer nye filer"
+
+#~ msgid "Indexing modified files"
+#~ msgstr "Indekserer ændrede filer"
+
+#~ msgid "Indexing Extended Attributes"
+#~ msgstr "Indekserer udvidede attributter"
+
+#~ msgid "Indexing file content"
+#~ msgstr "Indekserer filindhold"
+
+#~ msgid "Checking for unindexed files"
+#~ msgstr "Tjekker for ikke-indekserede filer"
+
+#~ msgid "Checking for stale index entries"
+#~ msgstr "Tjekker for forældede indeksindgange"
+
+#~ msgid "Idle (Powersave)"
+#~ msgstr "Tomgang (strømbesparelse)"
+
+#~ msgid "Not Running"
+#~ msgstr "Kører ikke"
+
+#~ msgid "Starting"
+#~ msgstr "Starter"
+
+#~ msgid "Maintainer"
+#~ msgstr "Vedligeholder"
+
+#~ msgid "Start the file indexer"
+#~ msgstr "Start filindekseringen"
+
+#~ msgid "Stop the file indexer"
+#~ msgstr "Stop filindekseringen"
+
+#~ msgid "Restart the file indexer"
+#~ msgstr "Genstart filindekseringen"
+
+#~ msgid "Indexed %1 / %2 files"
+#~ msgstr "Har indekseret %1 / %2 filer"
+
+#~ msgid "Parent folder %1 is already in the list of include folders"
+#~ msgstr "Overmappen %1 er allerede i listen over inkluderede mapper"
+
+#~ msgid "Parent folder %1 is already in the list of exclude folders"
+#~ msgstr "Overmappen %1 er allerede i listen over undtagne mapper"
+
+#, fuzzy
+#~| msgid "Baloo File Indexer is not running"
+#~ msgctxt "Application"
+#~ msgid "%1 is running"
+#~ msgstr "Baloo filindeksering kører ikke"
+
+#~ msgid "Check database for consistency"
+#~ msgstr "Tjek at databasen er konsistent"

@@ -102,3 +102,6 @@ msgstr "A %1 não é uma pasta válida"
 #, kde-format
 msgid "Elapsed: %1 msecs"
 msgstr "Decorrido: %1 ms"
+
+#~ msgid "Maintainer"
+#~ msgstr "Manutenção"

@@ -482,3 +482,78 @@ msgstr "Текущий размер индекса — %1"
 #, kde-format
 msgid "Index does not exist yet\n"
 msgstr "Индекс ещё не существует\n"
+
+#~ msgid "Unknown"
+#~ msgstr "Неизвестно"
+
+#~ msgid "Idle"
+#~ msgstr "Индексирование не осуществляется"
+
+#~ msgid "Suspended"
+#~ msgstr "Индексирование приостановлено"
+
+#~ msgid "Initial Indexing"
+#~ msgstr "Выполняется первичное индексирование"
+
+#~ msgid "Indexing new files"
+#~ msgstr "Выполняется индексирование новых файлов"
+
+#~ msgid "Indexing modified files"
+#~ msgstr "Выполняется индексирование изменённых файлов"
+
+#~ msgid "Indexing Extended Attributes"
+#~ msgstr "Выполняется индексирование расширенных атрибутов"
+
+#~ msgid "Indexing file content"
+#~ msgstr "Выполняется индексирование содержимого файлов"
+
+#~ msgid "Checking for unindexed files"
+#~ msgstr "Выполняется обнаружение непроиндексированных файлов"
+
+#~ msgid "Checking for stale index entries"
+#~ msgstr "Выполняется обнаружение записей, содержащих устаревшие индексы"
+
+#~ msgid "Idle (Powersave)"
+#~ msgstr "Индексирование не осуществляется (для энергосбережения)"
+
+#~ msgid "Not Running"
+#~ msgstr "Служба индексирования не запущена"
+
+#~ msgid "Starting"
+#~ msgstr "Запуск"
+
+#~ msgid "Maintainer"
+#~ msgstr "Сопровождающий"
+
+#~ msgid "Start the file indexer"
+#~ msgstr "Запустить индексирование файлов."
+
+#~ msgid "Stop the file indexer"
+#~ msgstr "Остановить индексирование файлов."
+
+#~ msgid "Restart the file indexer"
+#~ msgstr "Перезапустить индексирование файлов."
+
+#~ msgid "Indexed %1 / %2 files"
+#~ msgstr "Проиндексированы %1 из %2 файлов"
+
+#~ msgid "Parent folder %1 is already in the list of include folders"
+#~ msgstr "Родительская папка %1 уже входит в список папок для индексирования."
+
+# BUGME: word puzzle --aspotashev
+#~ msgid "Parent folder %1 is already in the list of exclude folders"
+#~ msgstr ""
+#~ "Родительская папка %1 уже входит в список исключённых из индексирования "
+#~ "папок."
+
+#, fuzzy
+#~| msgid "Baloo File Indexer is not running"
+#~ msgctxt "Application"
+#~ msgid "%1 is running"
+#~ msgstr "Индексирование файлов не выполняется"
+
+#~ msgid "Check database for consistency"
+#~ msgstr "Проверить целостность базы данных."
+
+#~ msgid "Must provide a value"
+#~ msgstr "Необходимо указать значение."

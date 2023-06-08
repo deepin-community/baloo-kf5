@@ -493,3 +493,68 @@ msgstr ""
 #| msgid "Path does not exist"
 msgid "Index does not exist yet\n"
 msgstr "Chan eil an t-slighe ann"
+
+#~ msgid "Unknown"
+#~ msgstr "Chan eil fhios"
+
+#~ msgid "Idle"
+#~ msgstr "'Na thàmh"
+
+#~ msgid "Suspended"
+#~ msgstr "'Na dhàil"
+
+#~ msgid "Initial Indexing"
+#~ msgstr "Inneacsadh tòiseachaidh"
+
+#~ msgid "Indexing new files"
+#~ msgstr "Ag inneacsadh nam faidhlichean ùra"
+
+#~ msgid "Indexing modified files"
+#~ msgstr "Ag inneacsadh nam faidhlichean a chaidh atharrachadh"
+
+#~ msgid "Indexing Extended Attributes"
+#~ msgstr "Ag inneacsadh nam buadhan leudaichte"
+
+#~ msgid "Indexing file content"
+#~ msgstr "Ag inneacsadh susbaint nam faidhlichean"
+
+#~ msgid "Checking for unindexed files"
+#~ msgstr "A' toirt sùil airson faidhlichean gun inneacsadh"
+
+#, fuzzy
+#~| msgid "Checking for unindexed files"
+#~ msgid "Checking for stale index entries"
+#~ msgstr "A' toirt sùil airson faidhlichean gun inneacsadh"
+
+#~ msgid "Maintainer"
+#~ msgstr "Neach-glèidhidh"
+
+#~ msgid "Start the file indexer"
+#~ msgstr "Tòisich inneal-inneacsaidh nam faidhlichean"
+
+#~ msgid "Stop the file indexer"
+#~ msgstr "Cuir stad air inneal-inneacsaidh nam faidhlichean"
+
+#~ msgid "Restart the file indexer"
+#~ msgstr "Ath-thòisich inneal-inneacsaidh nam faidhlichean"
+
+#~ msgid "Indexed %1 / %2 files"
+#~ msgstr "Chaidh %1 / %2 faidhle inneacsadh"
+
+#~ msgid "Parent folder %1 is already in the list of include folders"
+#~ msgstr ""
+#~ "Tha am pasgan-pàraint %1 air an liosta nam pasganan gabhail a-steach mar-"
+#~ "thà"
+
+#~ msgid "Parent folder %1 is already in the list of exclude folders"
+#~ msgstr ""
+#~ "Tha am pasgan-pàraint %1 air an liosta nam pasganan às-dhùnaidh mar-thà"
+
+#, fuzzy
+#~| msgid "Baloo File Indexer is not running"
+#~ msgctxt "Application"
+#~ msgid "%1 is running"
+#~ msgstr "Chan eil inneal-inneacsaidh Baloo 'ga ruith"
+
+#~ msgid "Must provide a value"
+#~ msgstr "Feumar luach a shònrachadh"

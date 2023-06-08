@@ -112,3 +112,9 @@ msgstr "Not Running"
 #, kde-format
 msgid "Starting"
 msgstr "Starting"
+
+#~ msgid "Missing:"
+#~ msgstr "Missing:"
+
+#~ msgid "Found %1 matching items"
+#~ msgstr "Found %1 matching items"

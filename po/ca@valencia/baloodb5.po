@@ -43,10 +43,10 @@ msgid ""
 "May be given multiple times."
 msgstr ""
 "Filtre per ID de dispositiu.\n"
-"0 (per defecte) no filtra i s'imprimeix tot.\n"
-"Els nombres positius són incloent-hi els filtres que imprimeixen només els "
+"0 (de manera predeterminada) no filtra i s'imprimix tot.\n"
+"Els nombres positius són incloent-hi els filtres que imprimixen només els "
 "dispositius indicats pels ID.\n"
-"Els nombres negatius són excloent-hi els filtres que imprimeixen tot excepte "
+"Els nombres negatius són excloent-hi els filtres que imprimixen tot excepte "
 "els dispositius indicats pels ID.\n"
 "Es pot indicar múltiples vegades."
 
@@ -67,7 +67,7 @@ msgstr ""
 #: main.cpp:47
 #, kde-format
 msgid "Act only on item on mounted devices"
-msgstr "Actua només en els elements a dispositius muntats"
+msgstr "Actua només sobre els elements en els dispositius muntats"
 
 #: main.cpp:51
 #, kde-format
@@ -75,7 +75,7 @@ msgid ""
 "Print results of a cleaning operation, but do not change anything.\n"
 "Only applies to \"%1\" command"
 msgstr ""
-"Imprimeix el resultat d'una operació de neteja, però no canvia res.\n"
+"Imprimix el resultat d'una operació de neteja, però no canvia res.\n"
 "Només aplica a l'ordre «%1»"
 
 #: main.cpp:59
@@ -83,8 +83,8 @@ msgstr ""
 msgid ""
 "List database contents. Use a regular expression as argument to filter output"
 msgstr ""
-"Llista el contingut de la base de dades. Usa una expressió regular com a "
-"argument per a filtrar l'eixida"
+"Llista el contingut de la base de dades. Utilitza una expressió regular com "
+"a argument per a filtrar l'eixida"
 
 #: main.cpp:70
 #, kde-format
@@ -112,12 +112,12 @@ msgstr ""
 #: main.cpp:147
 #, kde-format
 msgid "Baloo Database Sanitizer"
-msgstr "Sanejador de la base de dades del Baloo"
+msgstr "Sanejador de la base de dades de Baloo"
 
 #: main.cpp:149
 #, kde-format
 msgid "The Baloo Database Lister & Sanitizer"
-msgstr "Llista i saneja la base de dades del Baloo"
+msgstr "Llista i saneja la base de dades de Baloo"
 
 #: main.cpp:151
 #, kde-format
@@ -137,7 +137,7 @@ msgstr "Mantenidor"
 #: main.cpp:158
 #, kde-format
 msgid "The command to execute"
-msgstr "L'ordre a executar"
+msgstr "L'ordre que s'ha d'executar"
 
 #: main.cpp:162
 #, kde-format
@@ -146,13 +146,13 @@ msgid ""
 "A regular expression applied to the URL of database items\n"
 "Example: %1"
 msgstr ""
-"Una expressió regular aplicada a l'URL dels elements a la base de dades\n"
+"Una expressió regular aplicada a l'URL dels elements en la base de dades\n"
 "Exemple: %1"
 
 #: main.cpp:219 main.cpp:227 main.cpp:237
 #, kde-format
 msgid "Baloo Index could not be opened"
-msgstr "No s'ha pogut obrir l'índex del Baloo"
+msgstr "No s'ha pogut obrir l'índex de Baloo"
 
 #: main.cpp:223 main.cpp:231
 #, kde-format

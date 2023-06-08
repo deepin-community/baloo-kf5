@@ -112,3 +112,9 @@ msgstr "Niet actief"
 #, kde-format
 msgid "Starting"
 msgstr "Bezig met starten"
+
+#~ msgid "Missing:"
+#~ msgstr "Ontbreekt:"
+
+#~ msgid "Found %1 matching items"
+#~ msgstr "%1 overeenkomende items gevonden"

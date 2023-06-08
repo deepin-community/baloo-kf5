@@ -107,3 +107,18 @@ msgstr "%1 nie jest prawidłowym katalogiem"
 #, kde-format
 msgid "Elapsed: %1 msecs"
 msgstr "Upłynęło: %1 msecs"
+
+#~ msgid "Maintainer"
+#~ msgstr "Opiekun"
+
+#~ msgid "Baloo Search - A debugging tool"
+#~ msgstr "Wyszukiwarka Baloo - Narzędzie do debugowania"
+
+#~ msgid "(c) 2013-15, Vishesh Handa"
+#~ msgstr "(c) 2013-15, Vishesh Handa"
+
+#~ msgid "Number of results to return"
+#~ msgstr "Liczba wyników do zwrócenia"
+
+#~ msgid "If set, search through emails"
+#~ msgstr "Jeśli ustawione, to przeszuka pocztę"

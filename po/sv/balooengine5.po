@@ -112,3 +112,9 @@ msgstr "Kör inte"
 #, kde-format
 msgid "Starting"
 msgstr "Startar"
+
+#~ msgid "Missing:"
+#~ msgstr "Saknas:"
+
+#~ msgid "Found %1 matching items"
+#~ msgstr "Hittade %1 saknade objekt"

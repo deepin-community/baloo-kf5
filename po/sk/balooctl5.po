@@ -462,3 +462,69 @@ msgstr "Aktuálna veľkosť indexu je %1"
 #, kde-format
 msgid "Index does not exist yet\n"
 msgstr "Index zatiaľ neexistuje\n"
+
+#~ msgid "Unknown"
+#~ msgstr "Neznáme"
+
+#~ msgid "Idle"
+#~ msgstr "Nečinný"
+
+#~ msgid "Suspended"
+#~ msgstr "Pozastavené"
+
+#~ msgid "Initial Indexing"
+#~ msgstr "Počiatočné indexovanie"
+
+#~ msgid "Indexing new files"
+#~ msgstr "Indexujem nové súbory"
+
+#~ msgid "Indexing modified files"
+#~ msgstr "Indexujem zmenené súbory"
+
+#~ msgid "Indexing Extended Attributes"
+#~ msgstr "Indexujem rozšírené atribúty"
+
+#~ msgid "Indexing file content"
+#~ msgstr "Indexujem obsah súborov"
+
+#~ msgid "Checking for unindexed files"
+#~ msgstr "Kontrolujem neindexované súbory"
+
+#~ msgid "Checking for stale index entries"
+#~ msgstr "Kontrolujem neplatné záznamy indexu"
+
+#~ msgid "Idle (Powersave)"
+#~ msgstr "Nečinný (Úspora energie)"
+
+#~ msgid "Not Running"
+#~ msgstr "Nebeží"
+
+#~ msgid "Starting"
+#~ msgstr "Spúšťa sa"
+
+#~ msgid "Maintainer"
+#~ msgstr "Správca"
+
+#~ msgid "Start the file indexer"
+#~ msgstr "Spustiť indexer súborov"
+
+#~ msgid "Stop the file indexer"
+#~ msgstr "Zastaviť indexer súborov"
+
+#~ msgid "Restart the file indexer"
+#~ msgstr "Reštartovať indexer súborov"
+
+#~ msgid "Indexed %1 / %2 files"
+#~ msgstr "Indexovaných %1 / %2 súborov"
+
+#~ msgid "Parent folder %1 is already in the list of include folders"
+#~ msgstr "Nadradený priečinok %1 je už v zozname zahrnutých priečinkov"
+
+#~ msgid "Parent folder %1 is already in the list of exclude folders"
+#~ msgstr "Nadradený priečinok %1 je už v zozname vylúčených priečinkov"
+
+#, fuzzy
+#~| msgid "Baloo File Indexer is not running"
+#~ msgctxt "Application"
+#~ msgid "%1 is running"
+#~ msgstr "Indexer súborov Baloo nebeží"

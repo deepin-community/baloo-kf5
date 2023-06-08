@@ -108,3 +108,20 @@ msgstr "Το %1 δεν είναι έγκυρος κατάλογος"
 #, kde-format
 msgid "Elapsed: %1 msecs"
 msgstr "Χρόνος που παρήλθε: %1 msec"
+
+#~ msgid "Maintainer"
+#~ msgstr "Συντηρητής"
+
+#~ msgid "Baloo Search - A debugging tool"
+#~ msgstr "Baloo αναζήτηση - Εργαλείο διόρθωσης σφαλμάτων"
+
+#, fuzzy
+#~| msgid "(c) 2013, Vishesh Handa"
+#~ msgid "(c) 2013-15, Vishesh Handa"
+#~ msgstr "(c) 2013, Vishesh Handa"
+
+#~ msgid "Number of results to return"
+#~ msgstr "Αριθμός αποτελεσμάτων που θα επιστραφούν"
+
+#~ msgid "If set, search through emails"
+#~ msgstr "Εφόσον ενεργοποιηθεί, αναζήτηση στα μηνύματα ηλ. αλληλογραφίας"

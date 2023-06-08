@@ -114,3 +114,9 @@ msgstr "Ei käynnissä"
 #, kde-format
 msgid "Starting"
 msgstr "Käynnistetään"
+
+#~ msgid "Missing:"
+#~ msgstr "Puuttuu:"
+
+#~ msgid "Found %1 matching items"
+#~ msgstr "Löytyi %1 vastaavaa tietuetta"

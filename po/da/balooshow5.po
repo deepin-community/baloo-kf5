@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-08 00:42+0000\n"
+"POT-Creation-Date: 2022-02-02 00:41+0000\n"
 "PO-Revision-Date: 2019-05-07 12:05+0100\n"
 "Last-Translator: Martin Schlander <mschlander@opensuse.org>\n"
 "Language-Team: Danish <kde-i18n-doc@kde.org>\n"
@@ -96,28 +96,46 @@ msgstr "%1: Kunne ikke fortolke inode-nummer"
 msgid "%1: No index information found"
 msgstr "%1: Ingen indeksinformation fundet"
 
-#: main.cpp:224
+#: main.cpp:223
 #, kde-format
 msgid "Internal Info"
 msgstr "Intern info"
 
-#: main.cpp:225
+#: main.cpp:224
 #, kde-format
 msgid "Terms: %1"
 msgstr "Termer: %1"
 
-#: main.cpp:226
+#: main.cpp:225
 #, kde-format
 msgid "File Name Terms: %1"
 msgstr "Filnavntermer: %1"
 
-#: main.cpp:227
+#: main.cpp:226
 #, kde-format
 msgid "%1 Terms: %2"
 msgstr "%1 termer: %2"
 
-#: main.cpp:230
+#: main.cpp:229
 #, kde-format
 msgctxt "Prefix string for internal errors"
 msgid "Internal Error - %1"
 msgstr "Intern fejl - %1"
+
+#~ msgid "Vishesh Handa"
+#~ msgstr "Vishesh Handa"
+
+#~ msgid "Maintainer"
+#~ msgstr "Vedligeholder"
+
+#~ msgid "The file urls"
+#~ msgstr "Filers URL"
+
+#~ msgid "Inode number of the file to show"
+#~ msgstr "Inode-nummer for filen der skal vises"
+
+#~ msgid "The fileID is not equal to the actual Baloo fileID"
+#~ msgstr "Fil-id'et er ikke lig med det aktuelle Baloo-fil-id"
+
+#~ msgid "This is a bug"
+#~ msgstr "Dette er en programfejl"

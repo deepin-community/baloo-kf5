@@ -468,3 +468,45 @@ msgstr "İndeksin cari ölçüsü - %1"
 #, kde-format
 msgid "Index does not exist yet\n"
 msgstr "Hələlik indeks mövcud deyil\n"
+
+#~ msgid "Unknown"
+#~ msgstr "Naməlum"
+
+#~ msgid "Idle"
+#~ msgstr "Boşdayanma"
+
+#~ msgid "Suspended"
+#~ msgstr "İndeksləşmə dayandırıldı"
+
+#~ msgid "Initial Indexing"
+#~ msgstr "İlkin İndeksləşmə"
+
+#~ msgid "Indexing new files"
+#~ msgstr "Yeni faylların indeksləşməsi"
+
+#~ msgid "Indexing modified files"
+#~ msgstr "Dəyişiklik olan faylların indekslənməsi"
+
+#~ msgid "Indexing Extended Attributes"
+#~ msgstr "Genişləndirilmiş atributların indeksləşdirilməsi"
+
+#~ msgid "Indexing file content"
+#~ msgstr "Fayl tərkibinin indeksləşməsi"
+
+#~ msgid "Checking for unindexed files"
+#~ msgstr "İndeksləşməmiş faylların aşkar edilməsi"
+
+#~ msgid "Checking for stale index entries"
+#~ msgstr "Köhnə indekslənənlərin aşkar edilməsi"
+
+#~ msgid "Idle (Powersave)"
+#~ msgstr "Boşdayanma (Enerjiyə qənaət üçün)"
+
+#~ msgid "Not Running"
+#~ msgstr "İndeksləşmə getmir"
+
+#~ msgid "Starting"
+#~ msgstr "Başlanğıc"
+
+#~ msgid "Maintainer"
+#~ msgstr "Müşayətçi"

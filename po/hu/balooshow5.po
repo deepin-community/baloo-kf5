@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-08 00:42+0000\n"
+"POT-Creation-Date: 2022-02-02 00:41+0000\n"
 "PO-Revision-Date: 2019-11-12 19:37+0100\n"
 "Last-Translator: Kristóf Kiszel <ulysses@kubuntu.org>\n"
 "Language-Team: Hungarian <kde-l10n-hu@kde.org>\n"
@@ -98,28 +98,46 @@ msgstr "%1: nem sikerült feldolgozni az inode számot"
 msgid "%1: No index information found"
 msgstr "%1: nem található index információ"
 
-#: main.cpp:224
+#: main.cpp:223
 #, kde-format
 msgid "Internal Info"
 msgstr "Belső információ"
 
-#: main.cpp:225
+#: main.cpp:224
 #, kde-format
 msgid "Terms: %1"
 msgstr "Kifejezések: %1"
 
-#: main.cpp:226
+#: main.cpp:225
 #, kde-format
 msgid "File Name Terms: %1"
 msgstr "Fájlnév-kifejezések: %1"
 
-#: main.cpp:227
+#: main.cpp:226
 #, kde-format
 msgid "%1 Terms: %2"
 msgstr "%1 kifejezések: %2"
 
-#: main.cpp:230
+#: main.cpp:229
 #, kde-format
 msgctxt "Prefix string for internal errors"
 msgid "Internal Error - %1"
 msgstr "Belső hiba - %1"
+
+#~ msgid "Vishesh Handa"
+#~ msgstr "Vishesh Handa"
+
+#~ msgid "Maintainer"
+#~ msgstr "Karbantartó"
+
+#~ msgid "The file urls"
+#~ msgstr "A fájl URL"
+
+#~ msgid "Inode number of the file to show"
+#~ msgstr "A megjelenítendő fájl inode-száma"
+
+#~ msgid "The fileID is not equal to the actual Baloo fileID"
+#~ msgstr "A fileID nem egyezik a jelenlegi Baloo fileID-vel"
+
+#~ msgid "This is a bug"
+#~ msgstr "Ez egy hiba"

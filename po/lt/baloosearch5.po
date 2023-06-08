@@ -109,3 +109,14 @@ msgstr "%1 nėra teisingas katalogas"
 #, kde-format
 msgid "Elapsed: %1 msecs"
 msgstr "Praėjo laiko: %1 msek."
+
+#~ msgid "Maintainer"
+#~ msgstr "Prižiūrėtojas"
+
+#~ msgid "Baloo Search - A debugging tool"
+#~ msgstr "Baloo paieška - derinimo įrankis"
+
+#, fuzzy
+#~| msgid "(c) 2013, Vishesh Handa"
+#~ msgid "(c) 2013-15, Vishesh Handa"
+#~ msgstr "(c) 2013, Vishesh Handa"

@@ -462,3 +462,77 @@ msgstr "Current size of index is %1"
 #, kde-format
 msgid "Index does not exist yet\n"
 msgstr "Index does not exist yet\n"
+
+#~ msgid "Unknown"
+#~ msgstr "Unknown"
+
+#~ msgid "Idle"
+#~ msgstr "Idle"
+
+#~ msgid "Suspended"
+#~ msgstr "Suspended"
+
+#~ msgid "Initial Indexing"
+#~ msgstr "Initial Indexing"
+
+#~ msgid "Indexing new files"
+#~ msgstr "Indexing new files"
+
+#~ msgid "Indexing modified files"
+#~ msgstr "Indexing modified files"
+
+#~ msgid "Indexing Extended Attributes"
+#~ msgstr "Indexing Extended Attributes"
+
+#~ msgid "Indexing file content"
+#~ msgstr "Indexing file content"
+
+#~ msgid "Checking for unindexed files"
+#~ msgstr "Checking for unindexed files"
+
+#~ msgid "Checking for stale index entries"
+#~ msgstr "Checking for stale index entries"
+
+#~ msgid "Idle (Powersave)"
+#~ msgstr "Idle (Powersave)"
+
+#~ msgid "Not Running"
+#~ msgstr "Not Running"
+
+#~ msgid "Starting"
+#~ msgstr "Starting"
+
+#~ msgid "Maintainer"
+#~ msgstr "Maintainer"
+
+#~ msgid "Start the file indexer"
+#~ msgstr "Start the file indexer"
+
+#~ msgid "Stop the file indexer"
+#~ msgstr "Stop the file indexer"
+
+#~ msgid "Restart the file indexer"
+#~ msgstr "Restart the file indexer"
+
+#~ msgid "Indexed %1 / %2 files"
+#~ msgstr "Indexed %1 / %2 files"
+
+#~ msgid "Parent folder %1 is already in the list of include folders"
+#~ msgstr "Parent folder %1 is already in the list of include folders"
+
+#~ msgid "Parent folder %1 is already in the list of exclude folders"
+#~ msgstr "Parent folder %1 is already in the list of exclude folders"
+
+#~ msgctxt "Application"
+#~ msgid "%1 is running"
+#~ msgstr "%1 is running"
+
+#~ msgctxt "Application"
+#~ msgid "%1 died"
+#~ msgstr "%1 died"
+
+#~ msgid "Check database for consistency"
+#~ msgstr "Check database for consistency"
+
+#~ msgid "Must provide a value"
+#~ msgstr "Must provide a value"

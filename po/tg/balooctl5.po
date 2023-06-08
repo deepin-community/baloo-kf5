@@ -487,3 +487,39 @@ msgstr "Андозаи ҷории намоябандӣ %1"
 #| msgid "Index does not exist yet"
 msgid "Index does not exist yet\n"
 msgstr "Намоябандӣ ҳоло вуҷуд надорад"
+
+#~ msgid "Unknown"
+#~ msgstr "Номаълум"
+
+#~ msgid "Idle"
+#~ msgstr "Ғайрифаъол"
+
+#~ msgid "Suspended"
+#~ msgstr "Таваққуфшуда"
+
+#~ msgid "Initial Indexing"
+#~ msgstr "Намоябандии ибтидоӣ"
+
+#~ msgid "Indexing new files"
+#~ msgstr "Намоябандии файлҳои нав"
+
+#~ msgid "Indexing modified files"
+#~ msgstr "Намоябандии файлҳои тағйиршуда"
+
+#~ msgid "Indexing Extended Attributes"
+#~ msgstr "Намоябандии сифатҳои васеъшуда"
+
+#~ msgid "Indexing file content"
+#~ msgstr "Намоябандии муҳтавои файл"
+
+#~ msgid "Checking for unindexed files"
+#~ msgstr "Санҷиши файлҳои намоябандинашуда"
+
+#~ msgid "Checking for stale index entries"
+#~ msgstr "Санҷиши вурудҳои намоябандишудаи куҳна"
+
+#~ msgid "Idle (Powersave)"
+#~ msgstr "Ғайрифаъол (Сарфаи барқ)"
+
+#~ msgid "Maintainer"
+#~ msgstr "Барномасоз"

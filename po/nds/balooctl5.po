@@ -457,3 +457,15 @@ msgstr ""
 #, kde-format
 msgid "Index does not exist yet\n"
 msgstr ""
+
+#~ msgid "Maintainer"
+#~ msgstr "Pleger"
+
+#~ msgid "Start the file indexer"
+#~ msgstr "De Dateiindizeren starten"
+
+#~ msgid "Stop the file indexer"
+#~ msgstr "De Dateiindizeren anhollen"
+
+#~ msgid "Restart the file indexer"
+#~ msgstr "De Dateiindizeren nieg starten"

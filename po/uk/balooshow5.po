@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: balooshow5\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-08 00:42+0000\n"
+"POT-Creation-Date: 2022-02-02 00:41+0000\n"
 "PO-Revision-Date: 2019-04-12 07:11+0300\n"
 "Last-Translator: Yuri Chornoivan <yurchor@ukr.net>\n"
 "Language-Team: Ukrainian <kde-i18n-uk@kde.org>\n"
@@ -100,28 +100,48 @@ msgstr "%1: не вдалося обробити номер inode"
 msgid "%1: No index information found"
 msgstr "%1: не знайдено даних індексування"
 
-#: main.cpp:224
+#: main.cpp:223
 #, kde-format
 msgid "Internal Info"
 msgstr "Внутрішні дані"
 
-#: main.cpp:225
+#: main.cpp:224
 #, kde-format
 msgid "Terms: %1"
 msgstr "Терміни: %1"
 
-#: main.cpp:226
+#: main.cpp:225
 #, kde-format
 msgid "File Name Terms: %1"
 msgstr "Терміни назв файлів: %1"
 
-#: main.cpp:227
+#: main.cpp:226
 #, kde-format
 msgid "%1 Terms: %2"
 msgstr "Терміни %1: %2"
 
-#: main.cpp:230
+#: main.cpp:229
 #, kde-format
 msgctxt "Prefix string for internal errors"
 msgid "Internal Error - %1"
 msgstr "Внутрішня помилка — %1"
+
+#~ msgid "Vishesh Handa"
+#~ msgstr "Vishesh Handa"
+
+#~ msgid "Maintainer"
+#~ msgstr "Супровідник"
+
+#~ msgid "The file urls"
+#~ msgstr "Адреси файлів"
+
+#~ msgid "Inode number of the file to show"
+#~ msgstr "Номер inode файла, який слід показати"
+
+#~ msgid "The fileID is not equal to the actual Baloo fileID"
+#~ msgstr ""
+#~ "Значення ідентифікатора файла не дорівнює дійсному значенню "
+#~ "ідентифікатора файла Baloo"
+
+#~ msgid "This is a bug"
+#~ msgstr "Це вада у програмі"

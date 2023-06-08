@@ -466,3 +466,73 @@ msgstr "Το τρέχον μέγεθος του δείκτη είναι %1"
 #, kde-format
 msgid "Index does not exist yet\n"
 msgstr "Ο δείκτης δεν υπάρχει ακόμη\n"
+
+#~ msgid "Unknown"
+#~ msgstr "Άγνωστο"
+
+#~ msgid "Idle"
+#~ msgstr "Σε αδράνεια"
+
+#~ msgid "Suspended"
+#~ msgstr "Σε αναστολή"
+
+#~ msgid "Initial Indexing"
+#~ msgstr "Αρχική δεικτοδότηση"
+
+#~ msgid "Indexing new files"
+#~ msgstr "Δεικτοδότηση νέων αρχείων"
+
+#~ msgid "Indexing modified files"
+#~ msgstr "Δεικτοδότηση τροποποιημένων αρχείων"
+
+#~ msgid "Indexing Extended Attributes"
+#~ msgstr "Δεικτοδότηση πρόσθετων ιδιοτήτων"
+
+#~ msgid "Indexing file content"
+#~ msgstr "Δεικτοδότηση περιεχομένου"
+
+#~ msgid "Checking for unindexed files"
+#~ msgstr "Έλεγχος για μη δεικτοδοτημένα αρχεία"
+
+#~ msgid "Checking for stale index entries"
+#~ msgstr "Έλεγχος για στάσιμες δεικτοδοτημένες εγγραφές"
+
+#~ msgid "Idle (Powersave)"
+#~ msgstr "Σε αδράνεια (εξοικονόμηση ενέργειας)"
+
+#~ msgid "Not Running"
+#~ msgstr "Δεν εκτελείται"
+
+#~ msgid "Starting"
+#~ msgstr "Ξεκινάει"
+
+#~ msgid "Maintainer"
+#~ msgstr "Συντηρητής"
+
+#~ msgid "Start the file indexer"
+#~ msgstr "Εκκίνηση της εφαρμογής δεικτοδότησης"
+
+#~ msgid "Stop the file indexer"
+#~ msgstr "Τερματισμός της εφαρμογής δεικτοδότησης"
+
+#~ msgid "Restart the file indexer"
+#~ msgstr "Επανεκκίνηση της εφαρμογής δεικτοδότησης"
+
+#~ msgid "Indexed %1 / %2 files"
+#~ msgstr "Δεικτοδοτήθηκαν %1 / %2 αρχεία"
+
+#~ msgid "Parent folder %1 is already in the list of include folders"
+#~ msgstr ""
+#~ "Ο φάκελος γονέας %1 είναι ήδη στη λίστα των προς συμπερίληψη φακέλων"
+
+#~ msgid "Parent folder %1 is already in the list of exclude folders"
+#~ msgstr "Ο φάκελος γονέας %1 είναι ήδη στη λίστα των προς αποκλεισμό φακέλων"
+
+#, fuzzy
+#~| msgid "Baloo File Indexer is not running"
+#~ msgctxt "Application"
+#~ msgid "%1 is running"
+#~ msgstr "Το baloo για τη δεικτοδότηση αρχείων δεν εκτελείται"
+
+#~ msgid "Must provide a value"
+#~ msgstr "Απαιτείται να δοθεί τιμή"

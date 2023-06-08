@@ -6,7 +6,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-21 00:39+0000\n"
+"POT-Creation-Date: 2022-11-25 00:42+0000\n"
 "PO-Revision-Date: 2019-10-31 13:44+0200\n"
 "Last-Translator: Marek Laane <qiilaq69@gmail.com>\n"
 "Language-Team: Estonian <kde-et@lists.linux.ee>\n"
@@ -17,22 +17,27 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Lokalize 19.08.1\n"
 
-#: kio_tags.cpp:114 kio_tags.cpp:173
+#: kio_tags.cpp:110 kio_tags.cpp:166
 #, kde-format
 msgid "File %1 already has tag %2"
 msgstr "Failil %1 on juba silt %2"
 
-#: kio_tags.cpp:309
+#: kio_tags.cpp:298
 #, kde-format
 msgid "Tag"
 msgstr "Silt"
 
-#: kio_tags.cpp:315
+#: kio_tags.cpp:304
 #, kde-format
 msgid "Tag Fragment"
 msgstr "Sildifragment"
 
-#: kio_tags.cpp:321 kio_tags.cpp:322
+#: kio_tags.cpp:316 kio_tags.cpp:317
 #, kde-format
 msgid "All Tags"
 msgstr "Kõik sildid"
+
+#, fuzzy
+#~| msgid "All Tags"
+#~ msgid "Tags"
+#~ msgstr "Kõik sildid"

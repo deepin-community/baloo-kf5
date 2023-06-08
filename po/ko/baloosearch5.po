@@ -106,3 +106,18 @@ msgstr "%1이(가) 올바른 디렉터리가 아님"
 #, kde-format
 msgid "Elapsed: %1 msecs"
 msgstr "경과 시간: %1밀리초"
+
+#~ msgid "Maintainer"
+#~ msgstr "관리자"
+
+#~ msgid "Baloo Search - A debugging tool"
+#~ msgstr "Baloo 검색 - 디버깅 도구"
+
+#~ msgid "(c) 2013-15, Vishesh Handa"
+#~ msgstr "(c) 2013-15, Vishesh Handa"
+
+#~ msgid "Number of results to return"
+#~ msgstr "반환할 결과 수"
+
+#~ msgid "If set, search through emails"
+#~ msgstr "선택하면 이메일 검색"
