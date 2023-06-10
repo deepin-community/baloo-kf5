@@ -106,3 +106,6 @@ msgstr "%1 ei ole korrektne kataloog"
 #, kde-format
 msgid "Elapsed: %1 msecs"
 msgstr "Aega kulus: %1 msek"
+
+#~ msgid "Maintainer"
+#~ msgstr "Hooldaja"

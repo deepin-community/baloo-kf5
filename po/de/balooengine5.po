@@ -112,3 +112,9 @@ msgstr "Nicht gestartet"
 #, kde-format
 msgid "Starting"
 msgstr "Wird gestartet"
+
+#~ msgid "Missing:"
+#~ msgstr "Fehlt:"
+
+#~ msgid "Found %1 matching items"
+#~ msgstr "%1 passende Einträge gefunden"

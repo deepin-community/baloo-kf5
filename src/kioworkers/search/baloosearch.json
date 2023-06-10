@@ -1,10 +1,9 @@
 {
     "KDE-KIO-Protocols": {
-        "timeline": {
+        "baloosearch": {
             "Class": ":local",
-            "Icon": "nepomuk",
+            "Icon": "baloo",
             "deleting": true,
-            "exec": "kf5/kio/timeline",
             "input": "none",
             "linking": false,
             "listing": [
@@ -19,13 +18,13 @@
                 "Link"
             ],
             "makedir": false,
-            "maxInstances": 100,
+            "maxInstances": 20,
             "moving": false,
             "output": "filesystem",
-            "protocol": "timeline",
+            "protocol": "baloosearch",
             "reading": true,
             "source": false,
-            "writing": true
+            "writing": false
         }
     }
 }

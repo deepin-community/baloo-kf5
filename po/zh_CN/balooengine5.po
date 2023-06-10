@@ -1,14 +1,9 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR This_file_is_part_of_KDE
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 msgid ""
 msgstr ""
 "Project-Id-Version: kdeorg\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-04-16 00:16+0000\n"
-"PO-Revision-Date: 2021-12-22 14:05\n"
+"PO-Revision-Date: 2023-01-12 10:29\n"
 "Last-Translator: \n"
 "Language-Team: Chinese Simplified\n"
 "Language: zh_CN\n"
@@ -25,17 +20,17 @@ msgstr ""
 #: experimental/databasesanitizer.cpp:262
 #, kde-format
 msgid "Total: %1, Inaccessible: %2"
-msgstr "总计：%1，无法访问：%2"
+msgstr "总共：%1，无法访问：%2"
 
 #: experimental/databasesanitizer.cpp:266
 #, kde-format
 msgid "Total: %1, Ignored: %2, Accessible: %3, Inaccessible: %4"
-msgstr "总计：%1，被忽略：%2，可访问：%3，无法访问：%4"
+msgstr "总共：%1，被忽略：%2，可访问：%3，无法访问：%4"
 
 #: experimental/databasesanitizer.cpp:322
 #, kde-format
 msgid "Found %1 matching in %2 devices"
-msgstr "在 %2 个设备中找到 %1 个匹配"
+msgstr "在 %2 个设备中找到 %1 个匹配项"
 
 #: experimental/databasesanitizer.cpp:343
 #, kde-format
@@ -45,7 +40,7 @@ msgstr "忽略的符号链接："
 #: experimental/databasesanitizer.cpp:347
 #, kde-format
 msgid "Removing:"
-msgstr "正在删除:"
+msgstr "正在移除："
 
 #: experimental/databasesanitizer.cpp:361
 #, kde-format
@@ -71,7 +66,7 @@ msgstr "已暂停"
 #: indexerstate.cpp:23
 #, kde-format
 msgid "Initial Indexing"
-msgstr "初始索引"
+msgstr "正在初始化索引"
 
 #: indexerstate.cpp:26
 #, kde-format
@@ -111,7 +106,7 @@ msgstr "空闲 (节能)"
 #: indexerstate.cpp:47
 #, kde-format
 msgid "Not Running"
-msgstr "未运行"
+msgstr "当前不在运行"
 
 #: indexerstate.cpp:50
 #, kde-format

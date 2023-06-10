@@ -109,3 +109,12 @@ msgstr "%1 не є коректним каталогом"
 #, kde-format
 msgid "Elapsed: %1 msecs"
 msgstr "Витрачено: %1 мс"
+
+#~ msgid "Maintainer"
+#~ msgstr "Супровідник"
+
+#~ msgid "Baloo Search - A debugging tool"
+#~ msgstr "Пошук Baloo — засіб діагностики"
+
+#~ msgid "(c) 2013-15, Vishesh Handa"
+#~ msgstr "© Vishesh Handa, 2013–2015"

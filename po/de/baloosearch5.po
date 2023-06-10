@@ -103,3 +103,18 @@ msgstr "%1 ist kein gültiger Ordner"
 #, kde-format
 msgid "Elapsed: %1 msecs"
 msgstr "Verstrichen: %1 msec"
+
+#~ msgid "Maintainer"
+#~ msgstr "Betreuer"
+
+#~ msgid "Baloo Search - A debugging tool"
+#~ msgstr "Baloo Search - Ein Werkzeug zur Fehlersuche"
+
+#~ msgid "(c) 2013-15, Vishesh Handa"
+#~ msgstr "(c) 2013-15, Vishesh Handa"
+
+#~ msgid "Number of results to return"
+#~ msgstr "Anzahl der Ergebnisse, die zurückgegeben werden"
+
+#~ msgid "If set, search through emails"
+#~ msgstr "Wenn aktiviert. E-Mails durchsuchen"

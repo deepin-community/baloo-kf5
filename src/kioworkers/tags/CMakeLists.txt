@@ -8,8 +8,8 @@ ecm_qt_declare_logging_category(tags_LIB_SRCS
     HEADER kio_tags_debug.h
     IDENTIFIER Baloo::KIO_TAGS
     DEFAULT_SEVERITY Warning
-    CATEGORY_NAME kf.kio.slaves.tags
-    OLD_CATEGORY_NAMES kf5.kio.kio_tags
+    CATEGORY_NAME kf.kio.workers.tags
+    OLD_CATEGORY_NAMES kf5.kio.kio_tags kf.kio.slaves.tags
     DESCRIPTION "Baloo Tags (KIO)"
     EXPORT BALOO
 )
@@ -23,4 +23,4 @@ target_link_libraries(tags
   KF5::Baloo
 )
 
-install(TARGETS tags DESTINATION ${KDE_INSTALL_PLUGINDIR}/kf5/kio)
+install(TARGETS tags DESTINATION ${KDE_INSTALL_PLUGINDIR}/kf${QT_MAJOR_VERSION}/kio)

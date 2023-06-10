@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: balooshow\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-08 00:42+0000\n"
+"POT-Creation-Date: 2022-02-02 00:41+0000\n"
 "PO-Revision-Date: 2019-04-15 10:04+0200\n"
 "Last-Translator: Paolo Zamponi <zapaolo@email.it>\n"
 "Language-Team: Italian <kde-i18n-it@kde.org>\n"
@@ -99,28 +99,46 @@ msgstr "%1: impossibile elaborare il numero di inode"
 msgid "%1: No index information found"
 msgstr "%1: nessuna informazione trovata nell'indice"
 
-#: main.cpp:224
+#: main.cpp:223
 #, kde-format
 msgid "Internal Info"
 msgstr "Informazioni interne"
 
-#: main.cpp:225
+#: main.cpp:224
 #, kde-format
 msgid "Terms: %1"
 msgstr "Termini: %1"
 
-#: main.cpp:226
+#: main.cpp:225
 #, kde-format
 msgid "File Name Terms: %1"
 msgstr "Termini di nome di file: %1"
 
-#: main.cpp:227
+#: main.cpp:226
 #, kde-format
 msgid "%1 Terms: %2"
 msgstr "%1 termini: %2"
 
-#: main.cpp:230
+#: main.cpp:229
 #, kde-format
 msgctxt "Prefix string for internal errors"
 msgid "Internal Error - %1"
 msgstr "Errore interno - %1"
+
+#~ msgid "Vishesh Handa"
+#~ msgstr "Vishesh Handa"
+
+#~ msgid "Maintainer"
+#~ msgstr "Responsabile"
+
+#~ msgid "The file urls"
+#~ msgstr "URL del file"
+
+#~ msgid "Inode number of the file to show"
+#~ msgstr "Numeri di inode del file da mostrare"
+
+#~ msgid "The fileID is not equal to the actual Baloo fileID"
+#~ msgstr "L'ID del file non corrisponde all'ID corrente di Baloo"
+
+#~ msgid "This is a bug"
+#~ msgstr "Questo è un errore"

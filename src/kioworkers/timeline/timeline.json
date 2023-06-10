@@ -1,12 +1,9 @@
 {
     "KDE-KIO-Protocols": {
-        "tags": {
+        "timeline": {
             "Class": ":local",
-            "Icon": "tag",
-            "copyFromFile": true,
-            "deleteRecursive": true,
+            "Icon": "nepomuk",
             "deleting": true,
-            "exec": "kf5/kio/tags",
             "input": "none",
             "linking": false,
             "listing": [
@@ -20,15 +17,14 @@
                 "Group",
                 "Link"
             ],
-            "makedir": true,
+            "makedir": false,
             "maxInstances": 100,
-            "moving": true,
+            "moving": false,
             "output": "filesystem",
-            "protocol": "tags",
+            "protocol": "timeline",
             "reading": true,
-            "renameFromFile": true,
             "source": false,
-            "writing": true
+            "writing": false
         }
     }
 }

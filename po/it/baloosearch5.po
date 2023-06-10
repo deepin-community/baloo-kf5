@@ -107,3 +107,18 @@ msgstr "%1 non è una cartella valida"
 #, kde-format
 msgid "Elapsed: %1 msecs"
 msgstr "Trascorsi: %1 msec"
+
+#~ msgid "Maintainer"
+#~ msgstr "Responsabile"
+
+#~ msgid "Baloo Search - A debugging tool"
+#~ msgstr "Baloo Search - uno strumento di debug"
+
+#~ msgid "(c) 2013-15, Vishesh Handa"
+#~ msgstr "(C) 2013-2015, Vishesh Handa"
+
+#~ msgid "Number of results to return"
+#~ msgstr "Numero di risultati da restituire"
+
+#~ msgid "If set, search through emails"
+#~ msgstr "Se impostato, cerca nei messaggi di posta"

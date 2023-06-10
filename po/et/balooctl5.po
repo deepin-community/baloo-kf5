@@ -461,3 +461,69 @@ msgstr "Indeksi suurus on praegu %1"
 #, kde-format
 msgid "Index does not exist yet\n"
 msgstr "Indeksit pole veel olemas\n"
+
+#~ msgid "Unknown"
+#~ msgstr "Tundmatu"
+
+#~ msgid "Idle"
+#~ msgstr "Jõude"
+
+#~ msgid "Suspended"
+#~ msgstr "Peatatud"
+
+#~ msgid "Initial Indexing"
+#~ msgstr "Esmaindekseerimine"
+
+#~ msgid "Indexing new files"
+#~ msgstr "Uute failide indekseerimine"
+
+#~ msgid "Indexing modified files"
+#~ msgstr "Muudetud failide indekseerimine"
+
+#~ msgid "Indexing Extended Attributes"
+#~ msgstr "Laiendatud atribuutide indekseerimine"
+
+#~ msgid "Indexing file content"
+#~ msgstr "Failisisu indekseerimine"
+
+#~ msgid "Checking for unindexed files"
+#~ msgstr "Indekseerimata failide otsimine"
+
+#~ msgid "Checking for stale index entries"
+#~ msgstr "Iganenud indeksikirjete otsimine"
+
+#~ msgid "Idle (Powersave)"
+#~ msgstr "Jõude (energiasääst)"
+
+#~ msgid "Not Running"
+#~ msgstr "Ei tööta"
+
+#~ msgid "Starting"
+#~ msgstr "Alustamine"
+
+#~ msgid "Maintainer"
+#~ msgstr "Hooldaja"
+
+#~ msgid "Start the file indexer"
+#~ msgstr "Failide indekseerija käivitamine"
+
+#~ msgid "Stop the file indexer"
+#~ msgstr "Failide indekseerija peatamine"
+
+#~ msgid "Restart the file indexer"
+#~ msgstr "Failide indekseerija taaskäivitamine"
+
+#~ msgid "Indexed %1 / %2 files"
+#~ msgstr "Indekseeritud %1 / %2 faili"
+
+#~ msgid "Parent folder %1 is already in the list of include folders"
+#~ msgstr "Eellaskataloog %1 on juba kaasaarvatud kataloogide loendis"
+
+#~ msgid "Parent folder %1 is already in the list of exclude folders"
+#~ msgstr "Eellaskataloog %1 on juba väljaarvatud kataloogide loendis"
+
+#, fuzzy
+#~| msgid "Baloo File Indexer is not running"
+#~ msgctxt "Application"
+#~ msgid "%1 is running"
+#~ msgstr "Baloo failide indekseerija ei tööta"

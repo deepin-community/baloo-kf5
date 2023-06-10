@@ -107,3 +107,18 @@ msgstr "%1 ei ole kelvollinen kansio"
 #, kde-format
 msgid "Elapsed: %1 msecs"
 msgstr "Aikaa kului: %1 ms"
+
+#~ msgid "Maintainer"
+#~ msgstr "Ylläpitäjä"
+
+#~ msgid "Baloo Search - A debugging tool"
+#~ msgstr "Baloo Search – Työkalu vikojen jäljittämiseen"
+
+#~ msgid "(c) 2013-15, Vishesh Handa"
+#~ msgstr "© 2013–15 Vishesh Handa"
+
+#~ msgid "Number of results to return"
+#~ msgstr "Palautettavien tulosten määrä"
+
+#~ msgid "If set, search through emails"
+#~ msgstr "Jos asetettu, hae sähköposteista"

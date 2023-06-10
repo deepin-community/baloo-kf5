@@ -106,3 +106,6 @@ msgstr ""
 #, kde-format
 msgid "Elapsed: %1 msecs"
 msgstr "Гузашти вақт: %1 мсон"
+
+#~ msgid "Maintainer"
+#~ msgstr "Барномасоз"

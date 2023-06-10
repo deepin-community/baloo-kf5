@@ -453,3 +453,6 @@ msgstr ""
 #, kde-format
 msgid "Index does not exist yet\n"
 msgstr ""
+
+#~ msgid "Maintainer"
+#~ msgstr "ਪ੍ਰਬੰਧਕ"

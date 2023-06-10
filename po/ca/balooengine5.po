@@ -115,3 +115,9 @@ msgstr "No s'està executant"
 #, kde-format
 msgid "Starting"
 msgstr "S'està iniciant"
+
+#~ msgid "Missing:"
+#~ msgstr "Manca:"
+
+#~ msgid "Found %1 matching items"
+#~ msgstr "S'han trobat %1 elements coincidents"

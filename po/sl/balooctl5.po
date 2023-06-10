@@ -465,3 +465,45 @@ msgstr "Trenutna velikost kazala je %1"
 #, kde-format
 msgid "Index does not exist yet\n"
 msgstr "Kazalo še ne obstaja\n"
+
+#~ msgid "Unknown"
+#~ msgstr "Neznano"
+
+#~ msgid "Idle"
+#~ msgstr "Nedejaven"
+
+#~ msgid "Suspended"
+#~ msgstr "V pripravljenosti"
+
+#~ msgid "Initial Indexing"
+#~ msgstr "Začetna izgradnja kazala"
+
+#~ msgid "Indexing new files"
+#~ msgstr "Izgrajevanje kazala novih datotek"
+
+#~ msgid "Indexing modified files"
+#~ msgstr "Izgrajevanje kazala spremenjenih datotek"
+
+#~ msgid "Indexing Extended Attributes"
+#~ msgstr "Izgrajevanje kazala razširjenih atributov"
+
+#~ msgid "Indexing file content"
+#~ msgstr "Izgrajevanje kazala vsebine datotek"
+
+#~ msgid "Checking for unindexed files"
+#~ msgstr "Preverjanje za datotekami, ki še niso v kazalu"
+
+#~ msgid "Checking for stale index entries"
+#~ msgstr "Preverjanje zastarelih vnosov kazala"
+
+#~ msgid "Idle (Powersave)"
+#~ msgstr "Nedejaven (varčevanje z energijo)"
+
+#~ msgid "Not Running"
+#~ msgstr "Ne teče"
+
+#~ msgid "Starting"
+#~ msgstr "Začenjam"
+
+#~ msgid "Maintainer"
+#~ msgstr "Vzdrževalec"

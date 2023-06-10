@@ -1,20 +1,20 @@
 # translation of baloosearch.po to Slovak
 # Roman Paholik <wizzardsk@gmail.com>, 2013, 2015.
 # Mthw <jari_45@hotmail.com>, 2019.
-# Matej Mrenica <matejm98mthw@gmail.com>, 2020.
+# Matej Mrenica <matejm98mthw@gmail.com>, 2020, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: baloosearch\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-08-19 00:13+0000\n"
-"PO-Revision-Date: 2020-04-11 10:54+0200\n"
+"PO-Revision-Date: 2022-02-14 13:57+0100\n"
 "Last-Translator: Matej Mrenica <matejm98mthw@gmail.com>\n"
 "Language-Team: Slovak <kde-i18n-doc@kde.org>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Lokalize 20.03.90\n"
+"X-Generator: Lokalize 21.12.2\n"
 "Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 #, kde-format
@@ -85,7 +85,7 @@ msgstr "adresár"
 #: main.cpp:49
 #, kde-format
 msgid "Show document IDs"
-msgstr ""
+msgstr "Zobraziť ID dokumentov"
 
 #: main.cpp:50
 #, kde-format
@@ -106,3 +106,18 @@ msgstr "%1 nie je platný priečinok"
 #, kde-format
 msgid "Elapsed: %1 msecs"
 msgstr "Uplynulo: %1 milisekúnd"
+
+#~ msgid "Maintainer"
+#~ msgstr "Správca"
+
+#~ msgid "Baloo Search - A debugging tool"
+#~ msgstr "Baloo Search - ladiaci nástroj"
+
+#~ msgid "(c) 2013-15, Vishesh Handa"
+#~ msgstr "(c) 2013-15, Vishesh Handa"
+
+#~ msgid "Number of results to return"
+#~ msgstr "Počet výsledkov na vrátenie"
+
+#~ msgid "If set, search through emails"
+#~ msgstr "Ak nastavené, hľadať v e-mailoch"

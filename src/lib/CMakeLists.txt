@@ -1,11 +1,3 @@
-set(DBUS_INTERFACES
-  ${CMAKE_BINARY_DIR}/src/dbus/maininterface.cpp
-)
-
-# CMake <= 3.9 skipped automoc for generated files
-# CMake >= 3.10 requires SKIP_AUTOMOC to actually skip automoc
-SET_SOURCE_FILES_PROPERTIES(${DBUS_INTERFACES} PROPERTIES GENERATED 1 SKIP_AUTOMOC 1)
-
 set(BALOO_LIB_SRCS
     term.cpp
     query.cpp
@@ -25,8 +17,6 @@ set(BALOO_LIB_SRCS
     ../file/propertydata.cpp
 
     searchstore.cpp
-
-    ${DBUS_INTERFACES}
 )
 ecm_qt_declare_logging_category(BALOO_LIB_SRCS
     HEADER baloodebug.h
@@ -39,7 +29,6 @@ ecm_qt_declare_logging_category(BALOO_LIB_SRCS
 
 kconfig_add_kcfg_files(BALOO_LIB_SRCS baloosettings.kcfgc GENERATE_MOC)
 add_library(KF5Baloo ${BALOO_LIB_SRCS})
-add_dependencies(KF5Baloo BalooDBusInterfaces)
 
 add_library(KF5::Baloo ALIAS KF5Baloo)
 
@@ -54,6 +43,7 @@ target_link_libraries(KF5Baloo
     Qt${QT_MAJOR_VERSION}::DBus
     KF5::Solid
     KF5::BalooEngine
+    BalooDBusMainInterface
 )
 
 set_target_properties(KF5Baloo PROPERTIES
@@ -88,7 +78,7 @@ ecm_generate_headers(KF5Baloo_CamelCase_HEADERS
     REQUIRED_HEADERS KF5Baloo_HEADERS
 )
 
-install(TARGETS KF5Baloo EXPORT KF5BalooTargets ${KF5_INSTALL_TARGETS_DEFAULT_ARGS})
+install(TARGETS KF5Baloo EXPORT KF5BalooTargets ${KF_INSTALL_TARGETS_DEFAULT_ARGS})
 
 install(FILES
     ${CMAKE_CURRENT_BINARY_DIR}/core_export.h

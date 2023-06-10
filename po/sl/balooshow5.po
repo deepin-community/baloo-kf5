@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-08 00:42+0000\n"
+"POT-Creation-Date: 2022-02-02 00:41+0000\n"
 "PO-Revision-Date: 2020-05-19 08:41+0200\n"
 "Last-Translator: Matjaž Jeran <matjaz.jeran@amis.net>\n"
 "Language-Team: Slovenian <lugos-slo@lugos.si>\n"
@@ -100,28 +100,45 @@ msgstr "%1: Števila inode ni bilo mogoče razčleniti"
 msgid "%1: No index information found"
 msgstr "%1: V kazalu ni bilo najdenih podatkov"
 
-#: main.cpp:224
+#: main.cpp:223
 #, kde-format
 msgid "Internal Info"
 msgstr "Interne informacije"
 
-#: main.cpp:225
+#: main.cpp:224
 #, kde-format
 msgid "Terms: %1"
 msgstr "Pogoji: %1"
 
-#: main.cpp:226
+#: main.cpp:225
 #, kde-format
 msgid "File Name Terms: %1"
 msgstr "Pogoji imena datoteke: %1"
 
-#: main.cpp:227
+#: main.cpp:226
 #, kde-format
 msgid "%1 Terms: %2"
 msgstr "%1 Pogoji: %2"
 
-#: main.cpp:230
+#: main.cpp:229
 #, kde-format
 msgctxt "Prefix string for internal errors"
 msgid "Internal Error - %1"
 msgstr "Interna napaka - %1"
+
+#~ msgid "Vishesh Handa"
+#~ msgstr "Vishesh Handa"
+
+#~ msgid "Maintainer"
+#~ msgstr "Vzdrževalec"
+
+#, fuzzy
+#~| msgid "The file URL"
+#~ msgid "The file urls"
+#~ msgstr "URL datoteke"
+
+#~ msgid "The fileID is not equal to the actual Baloo fileID"
+#~ msgstr "ID datoteke ni enak ID-ju datoteke v programu Baloo"
+
+#~ msgid "This is a bug"
+#~ msgstr "To je hrošč"

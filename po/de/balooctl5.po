@@ -461,3 +461,80 @@ msgstr "Der aktuelle Index hat eine Größe von %1"
 #, kde-format
 msgid "Index does not exist yet\n"
 msgstr "Es existiert noch kein Index\n"
+
+#~ msgid "Unknown"
+#~ msgstr "Unbekannt"
+
+#~ msgid "Idle"
+#~ msgstr "Inaktiv"
+
+#~ msgid "Suspended"
+#~ msgstr "Angehalten"
+
+#~ msgid "Initial Indexing"
+#~ msgstr "Erstindizierung"
+
+#~ msgid "Indexing new files"
+#~ msgstr "Neue Dateien werden indiziert"
+
+#~ msgid "Indexing modified files"
+#~ msgstr "Geänderte Dateien werden indiziert"
+
+#~ msgid "Indexing Extended Attributes"
+#~ msgstr "Erweiterte Attribute werden indiziert"
+
+#~ msgid "Indexing file content"
+#~ msgstr "Dateiinhalt wird indiziert"
+
+#~ msgid "Checking for unindexed files"
+#~ msgstr "Überprüfung auf nicht indizierten Dateien"
+
+#~ msgid "Checking for stale index entries"
+#~ msgstr "Überprüfung auf veraltete Indexeinträge"
+
+#~ msgid "Idle (Powersave)"
+#~ msgstr "Inaktiv (Energiesparfunktion)"
+
+#~ msgid "Not Running"
+#~ msgstr "Nicht gestartet"
+
+#~ msgid "Starting"
+#~ msgstr "Wird gestartet"
+
+#~ msgid "Maintainer"
+#~ msgstr "Betreuer"
+
+#~ msgid "Start the file indexer"
+#~ msgstr "Datei-Indizierung starten"
+
+#~ msgid "Stop the file indexer"
+#~ msgstr "Datei-Indizierung beenden"
+
+#~ msgid "Restart the file indexer"
+#~ msgstr "Datei-Indizierung neustarten"
+
+#~ msgid "Indexed %1 / %2 files"
+#~ msgstr "%1/%2 Dateien indiziert"
+
+#~ msgid "Parent folder %1 is already in the list of include folders"
+#~ msgstr ""
+#~ "Übergeordneter Ordner %1 ist bereits in der Liste der einbezogenen Ordner"
+
+#~ msgid "Parent folder %1 is already in the list of exclude folders"
+#~ msgstr ""
+#~ "Übergeordneter Ordner %1 ist bereits in der Liste der ausgeschlossenen "
+#~ "Ordner"
+
+#~ msgctxt "Application"
+#~ msgid "%1 is running"
+#~ msgstr "%1 läuft"
+
+#~ msgctxt "Application"
+#~ msgid "%1 died"
+#~ msgstr "%1 ist abgestürzt"
+
+#~ msgid "Check database for consistency"
+#~ msgstr "Datenbank auf Konsistenz überprüfen"
+
+#~ msgid "Must provide a value"
+#~ msgstr "Ein Wert muss angegeben werden"

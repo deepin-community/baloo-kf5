@@ -465,3 +465,82 @@ msgstr "La dimensione attuale dell'indice è %1"
 #, kde-format
 msgid "Index does not exist yet\n"
 msgstr "L'indice non esiste ancora\n"
+
+#~ msgid "Unknown"
+#~ msgstr "Sconosciuto"
+
+#~ msgid "Idle"
+#~ msgstr "Inattivo"
+
+#~ msgid "Suspended"
+#~ msgstr "Sospeso"
+
+#~ msgid "Initial Indexing"
+#~ msgstr "Indicizzazione iniziale"
+
+#~ msgid "Indexing new files"
+#~ msgstr "Indicizzazione dei file nuovi"
+
+#~ msgid "Indexing modified files"
+#~ msgstr "Indicizzazione dei file modificati"
+
+#~ msgid "Indexing Extended Attributes"
+#~ msgstr "Indicizzazione degli attributi estesi"
+
+#~ msgid "Indexing file content"
+#~ msgstr "Indicizzazione del contenuto dei file"
+
+#~ msgid "Checking for unindexed files"
+#~ msgstr "Ricerca di file non indicizzati"
+
+#~ msgid "Checking for stale index entries"
+#~ msgstr "Ricerca di voci indice obsolete"
+
+#~ msgid "Idle (Powersave)"
+#~ msgstr "Inattivo (risparmio energetico)"
+
+#~ msgid "Not Running"
+#~ msgstr "Non in esecuzione"
+
+#~ msgid "Starting"
+#~ msgstr "Avvio"
+
+#~ msgid "Maintainer"
+#~ msgstr "Responsabile"
+
+#~ msgid "Start the file indexer"
+#~ msgstr "Avvia l'indicizzatore dei file"
+
+#~ msgid "Stop the file indexer"
+#~ msgstr "Ferma l'indicizzatore dei file"
+
+#~ msgid "Restart the file indexer"
+#~ msgstr "Riavvia l'indicizzatore dei file"
+
+#~ msgid "Indexed %1 / %2 files"
+#~ msgstr "Indicizzati %1 su %2 file"
+
+#~ msgid "Parent folder %1 is already in the list of include folders"
+#~ msgstr ""
+#~ "La cartella superiore %1 è già nell'elenco delle cartelle da includere"
+
+#~ msgid "Parent folder %1 is already in the list of exclude folders"
+#~ msgstr ""
+#~ "La cartella superiore %1 è già nell'elenco delle cartelle da escludere"
+
+#~ msgctxt "Application"
+#~ msgid "%1 is running"
+#~ msgstr "%1 è in esecuzione"
+
+#~ msgctxt "Application"
+#~ msgid "%1 died"
+#~ msgstr "%1 è morto"
+
+#~ msgid "Check database for consistency"
+#~ msgstr "Verifica la consistenza della banca dati"
+
+#~ msgid "Baloo died"
+#~ msgstr "Baloo è morto"
+
+#~ msgid "Must provide a value"
+#~ msgstr "Deve essere fornito un valore"

@@ -115,3 +115,9 @@ msgstr "Не запущено"
 #, kde-format
 msgid "Starting"
 msgstr "Запуск"
+
+#~ msgid "Missing:"
+#~ msgstr "Не вистачає:"
+
+#~ msgid "Found %1 matching items"
+#~ msgstr "Знайдено %1 відповідних записів"

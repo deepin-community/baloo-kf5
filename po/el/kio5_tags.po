@@ -7,7 +7,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-21 00:39+0000\n"
+"POT-Creation-Date: 2022-11-25 00:42+0000\n"
 "PO-Revision-Date: 2020-10-07 12:14+0300\n"
 "Last-Translator: Stelios <sstavra@gmail.com>\n"
 "Language-Team: Greek <kde-i18n-el@kde.org>\n"
@@ -18,22 +18,27 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=n != 1;\n"
 "X-Generator: Lokalize 20.04.2\n"
 
-#: kio_tags.cpp:114 kio_tags.cpp:173
+#: kio_tags.cpp:110 kio_tags.cpp:166
 #, kde-format
 msgid "File %1 already has tag %2"
 msgstr "Το αρχείο %1 έχει ήδη την ετικέτα %2"
 
-#: kio_tags.cpp:309
+#: kio_tags.cpp:298
 #, kde-format
 msgid "Tag"
 msgstr "Ετικέτα"
 
-#: kio_tags.cpp:315
+#: kio_tags.cpp:304
 #, kde-format
 msgid "Tag Fragment"
 msgstr "Τμήμα ετικέτας"
 
-#: kio_tags.cpp:321 kio_tags.cpp:322
+#: kio_tags.cpp:316 kio_tags.cpp:317
 #, kde-format
 msgid "All Tags"
 msgstr "Όλες οι ετικέτες"
+
+#, fuzzy
+#~| msgid "All Tags"
+#~ msgid "Tags"
+#~ msgstr "Όλες οι ετικέτες"

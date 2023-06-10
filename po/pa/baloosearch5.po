@@ -106,3 +106,8 @@ msgstr ""
 #, kde-format
 msgid "Elapsed: %1 msecs"
 msgstr ""
+
+#, fuzzy
+#~| msgid "(c) 2013, Vishesh Handa"
+#~ msgid "(c) 2013-15, Vishesh Handa"
+#~ msgstr "(c) 2013, Vishesh Handa"

@@ -1,21 +1,21 @@
 # Copyright (C) YEAR This_file_is_part_of_KDE
 # This file is distributed under the same license as the PACKAGE package.
-# Wantoyo <wantoyek@gmail.com>, 2018, 2020.
+# Wantoyo <wantoyek@gmail.com>, 2018, 2020, 2022.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-04-16 00:16+0000\n"
-"PO-Revision-Date: 2018-04-29 07:20+0700\n"
-"Last-Translator: Wantoyo <wantoyek@gmail.com>\n"
-"Language-Team: Indonesian <kde-i18n-doc@kde.org>\n"
+"PO-Revision-Date: 2022-08-26 23:44+0700\n"
+"Last-Translator: Wantoyèk <wantoyek@gmail.com>\n"
+"Language-Team: https://t.me/Localizations_KDE_Indonesia\n"
 "Language: id\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
-"X-Generator: Lokalize 19.12.1\n"
+"X-Generator: Lokalize 21.12.3\n"
 
 #: experimental/databasesanitizer.cpp:262
 #, kde-format
@@ -30,7 +30,7 @@ msgstr "Total: %1, Diabaikan: %2, Dapat Diakses: %3, Tak Dapat Diakses: %4"
 #: experimental/databasesanitizer.cpp:322
 #, kde-format
 msgid "Found %1 matching in %2 devices"
-msgstr "Ditemukan %1 kecocokan dalam perangkat %2"
+msgstr "Ditemukan %1 kecocokan dalam peranti %2"
 
 #: experimental/databasesanitizer.cpp:343
 #, kde-format
@@ -112,3 +112,9 @@ msgstr ""
 #, kde-format
 msgid "Starting"
 msgstr ""
+
+#~ msgid "Missing:"
+#~ msgstr "Hilang:"
+
+#~ msgid "Found %1 matching items"
+#~ msgstr "Ditemukan %1 item yang cocok"

@@ -464,3 +464,63 @@ msgstr "Az index jelenlegi mérete %1"
 #, kde-format
 msgid "Index does not exist yet\n"
 msgstr "Az index még nem létezik\n"
+
+#~ msgid "Unknown"
+#~ msgstr "Ismeretlen"
+
+#~ msgid "Idle"
+#~ msgstr "Inaktív"
+
+#~ msgid "Suspended"
+#~ msgstr "Felfüggesztve"
+
+#~ msgid "Initial Indexing"
+#~ msgstr "Kezdeti indexelés"
+
+#~ msgid "Indexing new files"
+#~ msgstr "Új fájlok indexelése"
+
+#~ msgid "Indexing modified files"
+#~ msgstr "Módosított fájlok indexelése"
+
+#~ msgid "Indexing Extended Attributes"
+#~ msgstr "Kiterjesztett attribútumok indexelése"
+
+#~ msgid "Indexing file content"
+#~ msgstr "Fájltartalom indexelése"
+
+#~ msgid "Checking for unindexed files"
+#~ msgstr "Nem indexelt fájlok keresése"
+
+#~ msgid "Checking for stale index entries"
+#~ msgstr "Elavult indexbejegyzések keresése"
+
+#~ msgid "Idle (Powersave)"
+#~ msgstr "Inaktív (energiatakarékos)"
+
+#~ msgid "Not Running"
+#~ msgstr "Nem fut"
+
+#~ msgid "Starting"
+#~ msgstr "Indulás"
+
+#~ msgid "Maintainer"
+#~ msgstr "Karbantartó"
+
+#~ msgid "Start the file indexer"
+#~ msgstr "A fájlindexelő indítása"
+
+#~ msgid "Stop the file indexer"
+#~ msgstr "A fájlindexelő leállítása"
+
+#~ msgid "Restart the file indexer"
+#~ msgstr "A fájlindexelő újraindítása"
+
+#~ msgid "Indexed %1 / %2 files"
+#~ msgstr "%1 / %2 fájl indexelve"
+
+#, fuzzy
+#~| msgid "Baloo File Indexer is not running"
+#~ msgctxt "Application"
+#~ msgid "%1 is running"
+#~ msgstr "A Baloo nem fut"

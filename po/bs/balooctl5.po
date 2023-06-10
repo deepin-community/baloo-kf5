@@ -460,3 +460,15 @@ msgstr ""
 #, kde-format
 msgid "Index does not exist yet\n"
 msgstr ""
+
+#~ msgid "Maintainer"
+#~ msgstr "Održavatelj"
+
+#~ msgid "Start the file indexer"
+#~ msgstr "Pokreni indeksiranje datoteka"
+
+#~ msgid "Stop the file indexer"
+#~ msgstr "Zaustavi indeksiranje datoteka"
+
+#~ msgid "Restart the file indexer"
+#~ msgstr "Restartuj indeksiranje datoteka"
