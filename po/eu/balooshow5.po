@@ -11,7 +11,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: balooshow5\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-08 00:42+0000\n"
+"POT-Creation-Date: 2022-02-02 00:41+0000\n"
 "PO-Revision-Date: 2019-04-25 10:40+0100\n"
 "Last-Translator: Iñigo Salvador Azurmendi <xalba@euskalnet.net>\n"
 "Language-Team: Basque <kde-i18n-eu@kde.org>\n"
@@ -102,31 +102,49 @@ msgstr "%1: Huts egin du inodo zenbakiaren azterketa sintaktikoak"
 msgid "%1: No index information found"
 msgstr "%1: Ez da indize informaziorik aurkitu"
 
-#: main.cpp:224
+#: main.cpp:223
 #, kde-format
 msgid "Internal Info"
 msgstr "Barneko informazioa"
 
 # xalba 2018-02-19: Testuinguruan itzulpen zuzena den egiaztatu behar da.
-#: main.cpp:225
+#: main.cpp:224
 #, kde-format
 msgid "Terms: %1"
 msgstr "Baldintzak: %1"
 
 # xalba 2018-02-19: Testuinguruan itzulpen zuzena den egiaztatu behar da.
-#: main.cpp:226
+#: main.cpp:225
 #, kde-format
 msgid "File Name Terms: %1"
 msgstr "Fitxategi izenen baldintzak: %1"
 
 # xalba 2018-02-19: Testuinguruan itzulpen zuzena den egiaztatu behar da.
-#: main.cpp:227
+#: main.cpp:226
 #, kde-format
 msgid "%1 Terms: %2"
 msgstr "%1 baldintzak: %2"
 
-#: main.cpp:230
+#: main.cpp:229
 #, kde-format
 msgctxt "Prefix string for internal errors"
 msgid "Internal Error - %1"
 msgstr "Barneko errorea - %1"
+
+#~ msgid "Vishesh Handa"
+#~ msgstr "Vishesh Handa"
+
+#~ msgid "Maintainer"
+#~ msgstr "Arduraduna"
+
+#~ msgid "The file urls"
+#~ msgstr "Fitxategiaren url-ak"
+
+#~ msgid "Inode number of the file to show"
+#~ msgstr "Erakutsi beharreko fitxategiaren inodo zenbakia"
+
+#~ msgid "The fileID is not equal to the actual Baloo fileID"
+#~ msgstr "FitxategiID-a ez da Balook duen fitxategiID-aren berdina"
+
+#~ msgid "This is a bug"
+#~ msgstr "Hau akats bat da"

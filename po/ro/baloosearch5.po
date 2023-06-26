@@ -107,3 +107,14 @@ msgstr "%1 nu e un dosar valid"
 #, kde-format
 msgid "Elapsed: %1 msecs"
 msgstr "Scurs: %1 msec"
+
+#~ msgid "Maintainer"
+#~ msgstr "Responsabil"
+
+#~ msgid "Baloo Search - A debugging tool"
+#~ msgstr "Căutare Baloo - Unealtă de depanare"
+
+#, fuzzy
+#~| msgid "(c) 2013, Vishesh Handa"
+#~ msgid "(c) 2013-15, Vishesh Handa"
+#~ msgstr "(c) 2013, Vishesh Handa"

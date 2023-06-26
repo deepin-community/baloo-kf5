@@ -468,3 +468,74 @@ msgstr "Indizearen uneko neurria %1 da"
 #, kde-format
 msgid "Index does not exist yet\n"
 msgstr "Oraindik ez dago indizerik\n"
+
+#~ msgid "Unknown"
+#~ msgstr "Ezezaguna"
+
+#~ msgid "Idle"
+#~ msgstr "Nagi"
+
+#~ msgid "Suspended"
+#~ msgstr "Esekita"
+
+#~ msgid "Initial Indexing"
+#~ msgstr "Hasierako indexatzea"
+
+#~ msgid "Indexing new files"
+#~ msgstr "Fitxategi berriak indexatzen"
+
+#~ msgid "Indexing modified files"
+#~ msgstr "Aldatutako fitxategiak indexatzen"
+
+#~ msgid "Indexing Extended Attributes"
+#~ msgstr "Atributu hedatuak indexatzen"
+
+#~ msgid "Indexing file content"
+#~ msgstr "Fitxategien edukia indexatzen"
+
+#~ msgid "Checking for unindexed files"
+#~ msgstr "Indexatu gabeko fitxategiak dauden egiaztatzen"
+
+#~ msgid "Checking for stale index entries"
+#~ msgstr "Indize sarrera zaharkituak dauden egiaztatzen"
+
+#~ msgid "Idle (Powersave)"
+#~ msgstr "Ez aktibo (energia aurreztea)"
+
+#~ msgid "Not Running"
+#~ msgstr "Ez dago martxan"
+
+#~ msgid "Starting"
+#~ msgstr "Abiarazten"
+
+#~ msgid "Maintainer"
+#~ msgstr "Arduraduna"
+
+#~ msgid "Start the file indexer"
+#~ msgstr "Abiarazi fitxategi-indexatzailea"
+
+#~ msgid "Stop the file indexer"
+#~ msgstr "Gelditu fitxategi-indexatzailea"
+
+#~ msgid "Restart the file indexer"
+#~ msgstr "Berrabiarazi fitxategi-indexatzailea"
+
+#~ msgid "Indexed %1 / %2 files"
+#~ msgstr "Indexatuak %1 / %2 fitxategi"
+
+#~ msgid "Parent folder %1 is already in the list of include folders"
+#~ msgstr "%1 guraso karpeta lehendik dago karpeta barneratuen zerrendan"
+
+#~ msgid "Parent folder %1 is already in the list of exclude folders"
+#~ msgstr "%1 guraso karpeta lehendik dago karpeta kanporatuen zerrendan"
+
+#~ msgctxt "Application"
+#~ msgid "%1 is running"
+#~ msgstr "%1 martxan dago"
+
+#~ msgctxt "Application"
+#~ msgid "%1 died"
+#~ msgstr "%1 hil da"
+
+#~ msgid "Check database for consistency"
+#~ msgstr "Egiaztatu datu-basearen koherentzia"

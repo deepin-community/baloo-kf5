@@ -469,3 +469,80 @@ msgstr "Поточний розмір покажчика — %1"
 #, kde-format
 msgid "Index does not exist yet\n"
 msgstr "Покажчика ще не існує\n"
+
+#~ msgid "Unknown"
+#~ msgstr "Невідомо"
+
+#~ msgid "Idle"
+#~ msgstr "Бездіяльність"
+
+#~ msgid "Suspended"
+#~ msgstr "Приспано"
+
+#~ msgid "Initial Indexing"
+#~ msgstr "Початкове індексування"
+
+#~ msgid "Indexing new files"
+#~ msgstr "Індексування нових файлів"
+
+#~ msgid "Indexing modified files"
+#~ msgstr "Індексування змінених файлів"
+
+#~ msgid "Indexing Extended Attributes"
+#~ msgstr "Індексування розширених атрибутів"
+
+#~ msgid "Indexing file content"
+#~ msgstr "Індексування вмісту файла"
+
+#~ msgid "Checking for unindexed files"
+#~ msgstr "Пошук неіндексованих файлів"
+
+#~ msgid "Checking for stale index entries"
+#~ msgstr "Пошук застарілих записів покажчика"
+
+#~ msgid "Idle (Powersave)"
+#~ msgstr "Бездіяльність (заощадження енергії)"
+
+#~ msgid "Not Running"
+#~ msgstr "Не запущено"
+
+#~ msgid "Starting"
+#~ msgstr "Запуск"
+
+#~ msgid "Maintainer"
+#~ msgstr "Супровідник"
+
+#~ msgid "Start the file indexer"
+#~ msgstr "Запустити засіб індексування файлів"
+
+#~ msgid "Stop the file indexer"
+#~ msgstr "Зупинити роботу засобу індексування файлів"
+
+#~ msgid "Restart the file indexer"
+#~ msgstr "Перезапустити засіб індексування файлів"
+
+#~ msgid "Indexed %1 / %2 files"
+#~ msgstr "Проіндексовано %1 / %2 файлів"
+
+#~ msgid "Parent folder %1 is already in the list of include folders"
+#~ msgstr "Батьківська тека %1 вже є у списку включених тек"
+
+#~ msgid "Parent folder %1 is already in the list of exclude folders"
+#~ msgstr "Батьківська тека %1 вже є у списку виключених тек"
+
+#~ msgctxt "Application"
+#~ msgid "%1 is running"
+#~ msgstr "%1 працює"
+
+#~ msgctxt "Application"
+#~ msgid "%1 died"
+#~ msgstr "%1 завершила роботу"
+
+#~ msgid "Check database for consistency"
+#~ msgstr "Перевірити базу даних на цілісність"
+
+#~ msgid "Baloo died"
+#~ msgstr "Baloo завершив роботу"
+
+#~ msgid "Must provide a value"
+#~ msgstr "Слід вказати значення"

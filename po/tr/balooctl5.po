@@ -1,31 +1,31 @@
-# SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR This_file_is_part_of_KDE
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
+# Emir SARI <emir_sari@icloud.com>, 2022.
 msgid ""
 msgstr ""
 "Project-Id-Version: balooctl5\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
 "POT-Creation-Date: 2021-05-19 00:15+0000\n"
-"PO-Revision-Date: 2017-10-04 11:59+0000\n"
-"Last-Translator: Kaan <kaanozdincer@gmail.com>\n"
-"Language-Team: Turkish <kde-i18n-doc@kde.org>\n"
+"PO-Revision-Date: 2022-12-11 19:56+0300\n"
+"Last-Translator: Emir SARI <emir_sari@icloud.com>\n"
+"Language-Team: Turkish <kde-l10n-tr@kde.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Lokalize 22.12.0\n"
 
 #, kde-format
 msgctxt "NAME OF TRANSLATORS"
 msgid "Your names"
-msgstr "Kaan Özdinçer"
+msgstr "Kaan Özdinçer, Emir SARI"
 
 #, kde-format
 msgctxt "EMAIL OF TRANSLATORS"
 msgid "Your emails"
-msgstr "kaanozdincer@gmail.com"
+msgstr "kaanozdincer@gmail.com, emir_sari@icloud.com"
 
 #: configcommand.cpp:45
 #, kde-format
@@ -33,25 +33,24 @@ msgid "Manipulate the Baloo configuration"
 msgstr "Baloo yapılandırmasını değiştir"
 
 #: configcommand.cpp:68
-#, fuzzy, kde-format
-#| msgid "The config command can be used to manipulate the Baloo Configuration"
+#, kde-format
 msgid "The config command can be used to manipulate the Baloo Configuration\n"
 msgstr ""
-"Baloo Yapılandırmasını düzenlemek için yapılandırma komutu kullanılabilir"
+"Baloo Yapılandırmasını düzenlemek için yapılandırma komutu kullanılabilir\n"
 
 #: configcommand.cpp:69
-#, fuzzy, kde-format
-#| msgid "Usage: balooctl config <command>"
+#, kde-format
 msgid ""
 "Usage: balooctl config <command>\n"
 "\n"
-msgstr "Kullanım: balooctl config <command>"
+msgstr ""
+"Kullanım: balooctl config <command>\n"
+"\n"
 
 #: configcommand.cpp:70
-#, fuzzy, kde-format
-#| msgid "Possible Commands:"
+#, kde-format
 msgid "Possible Commands:\n"
-msgstr "Olası komutlar:"
+msgstr "Olası komutlar:\n"
 
 #: configcommand.cpp:73
 #, kde-format
@@ -79,12 +78,13 @@ msgid "Display this help menu"
 msgstr "Bu yardım menüsünü göster"
 
 #: configcommand.cpp:83
-#, fuzzy, kde-format
-#| msgid "The following configuration options may be listed:"
+#, kde-format
 msgid ""
 "The following configuration options may be listed:\n"
 "\n"
-msgstr "Aşağıda yapılandırma seçenekleri listelenmiştir:"
+msgstr ""
+"Aşağıda yapılandırma seçenekleri listelenmiştir:\n"
+"\n"
 
 #: configcommand.cpp:85 configcommand.cpp:364
 #, kde-format
@@ -92,10 +92,9 @@ msgid "Controls if Baloo indexes hidden files and folders"
 msgstr "Eğer Baloo gizli dosya ve klasörleri indeksliyorsa, kontrol eder"
 
 #: configcommand.cpp:86 configcommand.cpp:365
-#, fuzzy, kde-format
-#| msgid "Controls if baloo indexes file content."
+#, kde-format
 msgid "Controls if Baloo indexes file content"
-msgstr "Eğer Baloo gizli dosya içeriklerini indeksliyorsa, kontrol eder"
+msgstr "Eğer Baloo gizli dosya içeriklerini indeksliyorsa denetler"
 
 #: configcommand.cpp:87 configcommand.cpp:150 configcommand.cpp:241
 #, kde-format
@@ -119,25 +118,24 @@ msgstr "Dosyaları hariç tutmak için kullanılan mime türlerinin listesi"
 
 #: configcommand.cpp:142 configcommand.cpp:233 configcommand.cpp:356
 #: configcommand.cpp:426
-#, fuzzy, kde-format
-#| msgid "Config parameter could not be found"
+#, kde-format
 msgid "Config parameter could not be found\n"
-msgstr "Yapılandırma parametresi bulunamadı"
+msgstr "Yapılandırma parametresi bulunamadı\n"
 
 #: configcommand.cpp:148 configcommand.cpp:239 configcommand.cpp:362
-#, fuzzy, kde-format
-#| msgid "The following configuration options may be modified:"
+#, kde-format
 msgid ""
 "The following configuration options may be modified:\n"
 "\n"
-msgstr "Aşağıdaki yapılandırma seçenekleri değiştirilebilir:"
+msgstr ""
+"Aşağıdaki yapılandırma seçenekleri değiştirilebilir:\n"
+"\n"
 
 #: configcommand.cpp:161 configcommand.cpp:181 configcommand.cpp:252
 #: configcommand.cpp:287
-#, fuzzy, kde-format
-#| msgid "A folder must be provided"
+#, kde-format
 msgid "A folder must be provided\n"
-msgstr "Bir klasör belirtilmeli"
+msgstr "Bir klasör belirtilmeli\n"
 
 #: configcommand.cpp:169
 #, kde-format
@@ -150,10 +148,9 @@ msgid "%1 is not in the list of exclude folders"
 msgstr "%1, hariç tutulan klasörler listesinde değil"
 
 #: configcommand.cpp:201 configcommand.cpp:322
-#, fuzzy, kde-format
-#| msgid "A filter must be provided"
+#, kde-format
 msgid "A filter must be provided\n"
-msgstr "Bir süzgeç belirtilmelidir"
+msgstr "Bir süzgeç belirtilmeli\n"
 
 #: configcommand.cpp:207
 #, kde-format
@@ -161,10 +158,9 @@ msgid "%1 is not in list of exclude filters"
 msgstr "%1, hariç tutulan süzgeçler listesinde değil"
 
 #: configcommand.cpp:218 configcommand.cpp:340
-#, fuzzy, kde-format
-#| msgid "A mimetype must be provided"
+#, kde-format
 msgid "A mimetype must be provided\n"
-msgstr "Bir mime türü belirtilmelidir"
+msgstr "Bir mime türü belirtilmeli\n"
 
 #: configcommand.cpp:224
 #, kde-format
@@ -172,16 +168,14 @@ msgid "%1 is not in list of exclude mimetypes"
 msgstr "%1, hariç tutulan mime türleri listesinde değil"
 
 #: configcommand.cpp:258 configcommand.cpp:293
-#, fuzzy, kde-format
-#| msgid "Path does not exist"
+#, kde-format
 msgid "Path does not exist\n"
-msgstr "Yol mevcut değil"
+msgstr "Yol mevcut değil\n"
 
 #: configcommand.cpp:263 configcommand.cpp:298
-#, fuzzy, kde-format
-#| msgid "Path is not a directory"
+#, kde-format
 msgid "Path is not a directory\n"
-msgstr "Yol bir dizin değil"
+msgstr "Yol bir dizin değil\n"
 
 #: configcommand.cpp:270
 #, kde-format
@@ -199,28 +193,24 @@ msgid "%1 is already in the list of exclude folders"
 msgstr "%1, zaten hariç tutulan klasörler listesinde"
 
 #: configcommand.cpp:328
-#, fuzzy, kde-format
-#| msgid "Exclude filter is already in the list"
+#, kde-format
 msgid "Exclude filter is already in the list\n"
-msgstr "Hariç tutulan süzgeç zaten listede"
+msgstr "Hariç tutulan süzgeç zaten listede\n"
 
 #: configcommand.cpp:346
-#, fuzzy, kde-format
-#| msgid "Exclude mimetype is already in the list"
+#, kde-format
 msgid "Exclude mimetype is already in the list\n"
-msgstr "Hariç tutulan mime türü zaten listede"
+msgstr "Hariç tutulan mime türü zaten listede\n"
 
 #: configcommand.cpp:374 configcommand.cpp:401
-#, fuzzy, kde-format
-#| msgid "A value must be provided"
+#, kde-format
 msgid "A value must be provided\n"
-msgstr "Bir değer belirtilmelidir"
+msgstr "Bir değer belirtilmeli\n"
 
 #: configcommand.cpp:395 configcommand.cpp:422
-#, fuzzy, kde-format
-#| msgid "Invalid value"
+#, kde-format
 msgid "Invalid value\n"
-msgstr "Geçersiz değer"
+msgstr "Geçersiz değer\n"
 
 #: main.cpp:51
 #, kde-format
@@ -230,12 +220,12 @@ msgstr "balooctl"
 #: main.cpp:52
 #, kde-format
 msgid "Vishesh Handa"
-msgstr "Vishesh Handa"
+msgstr "Vişeş Handa"
 
 #: main.cpp:57
 #, kde-format
 msgid "The command to execute"
-msgstr "Çalıştırılacak olan komut"
+msgstr "Yürütülecek komut"
 
 #: main.cpp:59
 #, kde-format
@@ -245,28 +235,27 @@ msgstr "İndeksleyicinin durumunu yazdır"
 #: main.cpp:60
 #, kde-format
 msgid "Enable the file indexer"
-msgstr "Dosya indeksleyicisini etkinleştir"
+msgstr "Dosya indeksleyiciyi etkinleştir"
 
 #: main.cpp:61
 #, kde-format
 msgid "Disable the file indexer"
-msgstr "Dosya indeksleyicisini kapat"
+msgstr "Dosya indeksleyiciyi kapat"
 
 #: main.cpp:62
-#, fuzzy, kde-format
-#| msgid "Resume the file indexer"
+#, kde-format
 msgid "Remove the index database"
-msgstr "Dosya indeksleyicisini devam ettir"
+msgstr "İndeks veritabanını kaldır"
 
 #: main.cpp:63
 #, kde-format
 msgid "Suspend the file indexer"
-msgstr "Dosya indeksleyicisini beklet"
+msgstr "Dosya indeksleyiciyi beklet"
 
 #: main.cpp:64
 #, kde-format
 msgid "Resume the file indexer"
-msgstr "Dosya indeksleyicisini devam ettir"
+msgstr "Dosya indeksleyiciyi sürdür"
 
 #: main.cpp:65
 #, kde-format
@@ -291,7 +280,7 @@ msgstr "Baloo yapılandırmasını düzenle"
 #: main.cpp:69
 #, kde-format
 msgid "Monitor the file indexer"
-msgstr "Dosya indeksleyicisini izle"
+msgstr "Dosya indeksleyiciyi izle"
 
 #: main.cpp:70
 #, kde-format
@@ -299,10 +288,9 @@ msgid "Display the disk space used by index"
 msgstr "İndeks tarafından kullanılan disk alanını göster"
 
 #: main.cpp:71
-#, fuzzy, kde-format
-#| msgid "Display the disk space used by index"
+#, kde-format
 msgid "Display files which could not be indexed"
-msgstr "İndeks tarafından kullanılan disk alanını göster"
+msgstr "İndekslenemeyen dosyaları görüntüle"
 
 #: main.cpp:74
 #, kde-format
@@ -314,49 +302,50 @@ msgid ""
 "The default format is \"%1\".\n"
 "Only applies to \"%4\""
 msgstr ""
+"Çıktı biçimi<%1|%2|%3>.\n"
+"Öntanımlı biçim: \"%1\".\n"
+"Yalnızca \"%4\" için geçerlidir"
 
 #: main.cpp:80
 #, kde-format
 msgid "format"
-msgstr ""
+msgstr "biçim"
 
 #: monitorcommand.cpp:54
 #, kde-format
 msgid "Press ctrl+c to stop monitoring\n"
-msgstr ""
+msgstr "İzlemeyi durdurmak için Ctrl+C'ye basın\n"
 
 #: monitorcommand.cpp:70
 #, kde-format
 msgid "Waiting for file indexer to start\n"
-msgstr ""
+msgstr "Dosya indeksleyicinin başlatılması bekleniyor\n"
 
 #: monitorcommand.cpp:71
 #, kde-format
 msgid "Press Ctrl+C to stop monitoring\n"
-msgstr ""
+msgstr "İzlemeyi durdurmak için Ctrl+C'ye basın\n"
 
 #: monitorcommand.cpp:78
-#, fuzzy, kde-format
-#| msgid "Baloo File Indexer is running"
+#, kde-format
 msgid "File indexer is running\n"
-msgstr "Baloo Dosya İndeksleyicisi çalışıyor"
+msgstr "Dosya indeksleyici çalışıyor\n"
 
 #: monitorcommand.cpp:94 statuscommand.cpp:308
-#, fuzzy, kde-format
-#| msgid "Indexer state: %1"
+#, kde-format
 msgctxt "currently indexed file"
 msgid "Indexing: %1"
-msgstr "İndeksleyici durumu: %1"
+msgstr "İndeksleniyor: %1"
 
 #: monitorcommand.cpp:103
 #, kde-format
 msgid ": Ok\n"
-msgstr ""
+msgstr ": Tamam\n"
 
 #: monitorcommand.h:32
 #, kde-format
 msgid "CLI interface for monitoring Baloo"
-msgstr ""
+msgstr "Baloo'yu izlemek için komut satırı arabirimi"
 
 #: statuscommand.cpp:33
 #, kde-format
@@ -366,48 +355,48 @@ msgstr "İndeksleyicinin durumunu yazdır"
 #: statuscommand.cpp:117
 #, kde-format
 msgid "File ignored"
-msgstr ""
+msgstr "Dosya yok sayıldı"
 
 #: statuscommand.cpp:118
 #, kde-format
 msgid "Basic Indexing: Disabled"
-msgstr ""
+msgstr "Temel İndeksleme: Devre Dışı"
 
 #: statuscommand.cpp:119 statuscommand.cpp:120
 #, kde-format
 msgid "Basic Indexing: Scheduled"
-msgstr ""
+msgstr "Temel İndeksleme: Zamanlandı"
 
 #: statuscommand.cpp:121 statuscommand.cpp:122 statuscommand.cpp:123
 #: statuscommand.cpp:124
 #, kde-format
 msgid "Basic Indexing: Done"
-msgstr ""
+msgstr "Temel İndeksleme: Tamamlandı"
 
 #: statuscommand.cpp:130 statuscommand.cpp:133
 #, kde-format
 msgid "Content Indexing: Scheduled"
-msgstr ""
+msgstr "İçerik İndeksleme: Zamanlandı"
 
 #: statuscommand.cpp:134
 #, kde-format
 msgid "Content Indexing: Failed"
-msgstr ""
+msgstr "İçerik İndeksleme: Başarısız"
 
 #: statuscommand.cpp:135
 #, kde-format
 msgid "Content Indexing: Done"
-msgstr ""
+msgstr "İçerik İndeksleme: Tamamlandı"
 
 #: statuscommand.cpp:142 statuscommand.cpp:182 statuscommand.cpp:231
 #, kde-format
 msgid "Ignoring non-existent file %1"
-msgstr ""
+msgstr "Var olmayan %1 dosyası yok sayılıyor"
 
 #: statuscommand.cpp:147 statuscommand.cpp:187 statuscommand.cpp:236
 #, kde-format
 msgid "Ignoring symlink/special file %1"
-msgstr ""
+msgstr "Sembolik bağlantı/özel dosya %1 yok sayılıyor"
 
 #: statuscommand.cpp:151
 #, kde-format
@@ -417,34 +406,28 @@ msgstr "Dosya: %1"
 #: statuscommand.cpp:263
 #, kde-format
 msgid "Output format \"%1\" is invalid, use one of:\n"
-msgstr ""
+msgstr "Çıktı biçimi \"%1\" geçersiz, şunlardan birini kullanın:\n"
 
 #: statuscommand.cpp:265
 #, kde-format
 msgctxt "bullet list item with output format"
 msgid "- %1\n"
-msgstr ""
+msgstr "- %1\n"
 
 #: statuscommand.cpp:272
-#, fuzzy, kde-format
-#| msgid ""
-#| "Baloo is currently disabled. To enable, please run \"balooctl enable\""
+#, kde-format
 msgid "Baloo is currently disabled. To enable, please run %1\n"
-msgstr ""
-"Baloo şu anda kapalı, Etkinleştirmek için, lütfen \"balooctl enable\" "
-"komutunu çalıştırın"
+msgstr "Baloo şu anda kapalı. Etkinleştirmek için, lütfen %1 çalıştırın\n"
 
 #: statuscommand.cpp:278
-#, fuzzy, kde-format
-#| msgid "Baloo Index could not be opened"
+#, kde-format
 msgid "Baloo Index could not be opened\n"
-msgstr "Baloo İndeksi açılamadı"
+msgstr "Baloo İndeksi açılamadı\n"
 
 #: statuscommand.cpp:305
-#, fuzzy, kde-format
-#| msgid "Baloo File Indexer is running"
+#, kde-format
 msgid "Baloo File Indexer is running\n"
-msgstr "Baloo Dosya İndeksleyicisi çalışıyor"
+msgstr "Baloo Dosya İndeksleyici çalışıyor\n"
 
 #: statuscommand.cpp:307 statuscommand.cpp:310
 #, kde-format
@@ -452,34 +435,31 @@ msgid "Indexer state: %1"
 msgstr "İndeksleyici durumu: %1"
 
 #: statuscommand.cpp:314
-#, fuzzy, kde-format
-#| msgid "Baloo File Indexer is not running"
+#, kde-format
 msgid "Baloo File Indexer is not running\n"
-msgstr "Baloo Dosya İndeksleyicisi çalışmıyor"
+msgstr "Baloo Dosya İndeksleyici çalışmıyor\n"
 
 #: statuscommand.cpp:321
-#, fuzzy, kde-format
-#| msgid "Stop the file indexer"
+#, kde-format
 msgid "Total files indexed: %1"
-msgstr "Dosya indeksleyicisini durdur"
+msgstr "Toplam indekslenen dosya: %1"
 
 #: statuscommand.cpp:322
 #, kde-format
 msgid "Files waiting for content indexing: %1"
-msgstr ""
+msgstr "İçerik indeksleme için bekleyen dosyalar: %1"
 
 #: statuscommand.cpp:323
 #, kde-format
 msgid "Files failed to index: %1"
-msgstr ""
+msgstr "İndekslenemeyen dosyalar: %1"
 
 #: statuscommand.cpp:331
 #, kde-format
 msgid "Current size of index is %1"
-msgstr ""
+msgstr "İndeksin geçerli boyutu %1"
 
 #: statuscommand.cpp:333
-#, fuzzy, kde-format
-#| msgid "Path does not exist"
+#, kde-format
 msgid "Index does not exist yet\n"
-msgstr "Yol mevcut değil"
+msgstr "İndeks henüz mevcut değil\n"

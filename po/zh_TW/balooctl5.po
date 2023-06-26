@@ -464,3 +464,45 @@ msgstr "目前索引大小為 %1"
 #, kde-format
 msgid "Index does not exist yet\n"
 msgstr "索引不存在\n"
+
+#~ msgid "Unknown"
+#~ msgstr "未知"
+
+#~ msgid "Idle"
+#~ msgstr "閒置"
+
+#~ msgid "Suspended"
+#~ msgstr "暫停"
+
+#~ msgid "Initial Indexing"
+#~ msgstr "初始索引"
+
+#~ msgid "Indexing new files"
+#~ msgstr "建立新檔案索引"
+
+#~ msgid "Indexing modified files"
+#~ msgstr "建立修改過的檔案索引"
+
+#~ msgid "Indexing Extended Attributes"
+#~ msgstr "建立延伸屬性索引"
+
+#~ msgid "Indexing file content"
+#~ msgstr "建立檔案內容索引"
+
+#~ msgid "Checking for unindexed files"
+#~ msgstr "檢查是否有未建索引的檔案"
+
+#~ msgid "Checking for stale index entries"
+#~ msgstr "正在檢查過時的索引項目"
+
+#~ msgid "Idle (Powersave)"
+#~ msgstr "閒置（省電）"
+
+#~ msgid "Not Running"
+#~ msgstr "未執行"
+
+#~ msgid "Starting"
+#~ msgstr "啟動中"
+
+#~ msgid "Maintainer"
+#~ msgstr "維護者"

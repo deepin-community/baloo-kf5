@@ -106,3 +106,6 @@ msgstr "%1 etibarlı qovluq deyil"
 #, kde-format
 msgid "Elapsed: %1 msecs"
 msgstr "Sərf olunan vaxt: %1 msan"
+
+#~ msgid "Maintainer"
+#~ msgstr "Müşayətçi"

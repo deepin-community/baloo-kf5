@@ -106,3 +106,18 @@ msgstr "%1 är inte en giltig katalog"
 #, kde-format
 msgid "Elapsed: %1 msecs"
 msgstr "Förfluten tid: %1 ms"
+
+#~ msgid "Maintainer"
+#~ msgstr "Underhåll"
+
+#~ msgid "Baloo Search - A debugging tool"
+#~ msgstr "Baloo-sökning - ett felsökningsverktyg"
+
+#~ msgid "(c) 2013-15, Vishesh Handa"
+#~ msgstr "© 2013-2015, Vishesh Handa"
+
+#~ msgid "Number of results to return"
+#~ msgstr "Antal resultat att returnera"
+
+#~ msgid "If set, search through emails"
+#~ msgstr "Om satt, sök igenom e-post"

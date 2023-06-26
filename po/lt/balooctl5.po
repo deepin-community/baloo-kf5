@@ -465,3 +465,54 @@ msgstr "Dabartinis indekso dydis yra %1"
 #, kde-format
 msgid "Index does not exist yet\n"
 msgstr "Indekso kol kas nėra\n"
+
+#~ msgid "Unknown"
+#~ msgstr "Nežinoma"
+
+#~ msgid "Idle"
+#~ msgstr "Neveiklus"
+
+#~ msgid "Suspended"
+#~ msgstr "Pristabdytas"
+
+#~ msgid "Initial Indexing"
+#~ msgstr "Pradinis indeksavimas"
+
+#~ msgid "Indexing new files"
+#~ msgstr "Indeksuojami nauji failai"
+
+#~ msgid "Indexing modified files"
+#~ msgstr "Indeksuojami modifikuoti failai"
+
+#~ msgid "Indexing Extended Attributes"
+#~ msgstr "Indeksuojami išplėstiniai atributai"
+
+#~ msgid "Indexing file content"
+#~ msgstr "Indeksuojamas failų turinys"
+
+#~ msgid "Checking for unindexed files"
+#~ msgstr "Tikrinama ar yra neindeksuotų failų"
+
+#~ msgid "Checking for stale index entries"
+#~ msgstr "Tikrinama ar yra pasenusiųjų indeksavimo įrašų"
+
+#~ msgid "Idle (Powersave)"
+#~ msgstr "Neveiklus (Energijos taupymas)"
+
+#~ msgid "Not Running"
+#~ msgstr "Neveikia"
+
+#~ msgid "Starting"
+#~ msgstr "Pradedama"
+
+#~ msgid "Maintainer"
+#~ msgstr "Prižiūrėtojas"
+
+#~ msgid "Start the file indexer"
+#~ msgstr "Paleisti failų indeksavimą"
+
+#~ msgid "Stop the file indexer"
+#~ msgstr "Sustabdyti failų indeksavimą"
+
+#~ msgid "Restart the file indexer"
+#~ msgstr "Iš naujo paleisti failų indeksavimą"

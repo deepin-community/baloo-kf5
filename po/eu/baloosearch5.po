@@ -111,3 +111,6 @@ msgstr "%1 ez da baliozko direktorioa"
 #, kde-format
 msgid "Elapsed: %1 msecs"
 msgstr "Igarotakoa: %1 ms"
+
+#~ msgid "Maintainer"
+#~ msgstr "Maintainer"

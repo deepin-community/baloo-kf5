@@ -106,3 +106,18 @@ msgstr "%1 is geen geldige map"
 #, kde-format
 msgid "Elapsed: %1 msecs"
 msgstr "Verstreken: %1 ms"
+
+#~ msgid "Maintainer"
+#~ msgstr "Onderhouder"
+
+#~ msgid "Baloo Search - A debugging tool"
+#~ msgstr "Zoeken met Baloo - een hulpmiddel voor debuggen"
+
+#~ msgid "(c) 2013-15, Vishesh Handa"
+#~ msgstr "(c) 2013-2015, Vishesh Handa"
+
+#~ msgid "Number of results to return"
+#~ msgstr "Aantal terug te geven resultaten"
+
+#~ msgid "If set, search through emails"
+#~ msgstr "Indien geactiveerd, zoeken in e-mailberichten"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: balooshow5\n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-08 00:42+0000\n"
+"POT-Creation-Date: 2022-02-02 00:41+0000\n"
 "PO-Revision-Date: 2019-04-14 22:15-0300\n"
 "Last-Translator: André Marcelo Alvarenga <alvarenga@kde.org>\n"
 "Language-Team: Brazilian Portuguese <kde-i18n-pt_br@kde.org>\n"
@@ -100,28 +100,34 @@ msgstr "%1: Ocorreu um erro ao processar o número de i-node"
 msgid "%1: No index information found"
 msgstr "%1: Não foi encontrada nenhuma informação do índice"
 
-#: main.cpp:224
+#: main.cpp:223
 #, kde-format
 msgid "Internal Info"
 msgstr "Informações internas"
 
-#: main.cpp:225
+#: main.cpp:224
 #, kde-format
 msgid "Terms: %1"
 msgstr "Termos: %1"
 
-#: main.cpp:226
+#: main.cpp:225
 #, kde-format
 msgid "File Name Terms: %1"
 msgstr "Termos de nomes de arquivos: %1"
 
-#: main.cpp:227
+#: main.cpp:226
 #, kde-format
 msgid "%1 Terms: %2"
 msgstr "%1 termos: %2"
 
-#: main.cpp:230
+#: main.cpp:229
 #, kde-format
 msgctxt "Prefix string for internal errors"
 msgid "Internal Error - %1"
 msgstr "Erro interno - %1"
+
+#~ msgid "Vishesh Handa"
+#~ msgstr "Vishesh Handa"
+
+#~ msgid "Maintainer"
+#~ msgstr "Mantenedor"

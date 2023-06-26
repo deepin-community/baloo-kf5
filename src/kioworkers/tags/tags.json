@@ -1,10 +1,11 @@
 {
     "KDE-KIO-Protocols": {
-        "baloosearch": {
+        "tags": {
             "Class": ":local",
-            "Icon": "baloo",
+            "Icon": "tag",
+            "copyFromFile": true,
+            "deleteRecursive": true,
             "deleting": true,
-            "exec": "kf5/kio/baloosearch",
             "input": "none",
             "linking": false,
             "listing": [
@@ -18,14 +19,15 @@
                 "Group",
                 "Link"
             ],
-            "makedir": false,
-            "maxInstances": 20,
-            "moving": false,
+            "makedir": true,
+            "maxInstances": 100,
+            "moving": true,
             "output": "filesystem",
-            "protocol": "baloosearch",
+            "protocol": "tags",
             "reading": true,
+            "renameFromFile": true,
             "source": false,
-            "writing": false
+            "writing": true
         }
     }
 }

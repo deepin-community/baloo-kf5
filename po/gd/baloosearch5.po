@@ -108,3 +108,6 @@ msgstr ""
 #, kde-format
 msgid "Elapsed: %1 msecs"
 msgstr ""
+
+#~ msgid "Maintainer"
+#~ msgstr "Neach-glèidhidh"

@@ -1,13 +1,13 @@
 # Copyright (C) YEAR This_file_is_part_of_KDE
 # This file is distributed under the same license as the PACKAGE package.
 # Vít Pelčák <vit@pelcak.org>, 2014, 2017, 2018, 2019.
-# Vit Pelcak <vpelcak@suse.cz>, 2021.
+# Vit Pelcak <vit@pelcak.org>, 2021.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.kde.org\n"
-"POT-Creation-Date: 2021-12-08 00:42+0000\n"
+"POT-Creation-Date: 2022-02-02 00:41+0000\n"
 "PO-Revision-Date: 2021-08-19 15:57+0200\n"
 "Last-Translator: Vit Pelcak <vpelcak@suse.cz>\n"
 "Language-Team: Czech <kde-i18n-doc@kde.org>\n"
@@ -95,27 +95,27 @@ msgstr "%1: Selhala analýza čísla inodu"
 msgid "%1: No index information found"
 msgstr "%1: Nebyla nalezena informace o indexu"
 
-#: main.cpp:224
+#: main.cpp:223
 #, kde-format
 msgid "Internal Info"
 msgstr "Interní informace"
 
-#: main.cpp:225
+#: main.cpp:224
 #, kde-format
 msgid "Terms: %1"
 msgstr ""
 
-#: main.cpp:226
+#: main.cpp:225
 #, kde-format
 msgid "File Name Terms: %1"
 msgstr ""
 
-#: main.cpp:227
+#: main.cpp:226
 #, kde-format
 msgid "%1 Terms: %2"
 msgstr ""
 
-#: main.cpp:230
+#: main.cpp:229
 #, kde-format
 msgctxt "Prefix string for internal errors"
 msgid "Internal Error - %1"

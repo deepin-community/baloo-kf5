@@ -466,3 +466,80 @@ msgstr "Huidige grootte van index is %1"
 #, kde-format
 msgid "Index does not exist yet\n"
 msgstr "Index bestaat nog niet\n"
+
+#~ msgid "Unknown"
+#~ msgstr "Onbekend"
+
+#~ msgid "Idle"
+#~ msgstr "Inactief"
+
+#~ msgid "Suspended"
+#~ msgstr "Onderbroken"
+
+#~ msgid "Initial Indexing"
+#~ msgstr "Initiële indexering"
+
+#~ msgid "Indexing new files"
+#~ msgstr "Nieuwe bestanden indexeren"
+
+#~ msgid "Indexing modified files"
+#~ msgstr "Gewijzigde bestanden indexeren"
+
+#~ msgid "Indexing Extended Attributes"
+#~ msgstr "Uitgebreide attributen indexeren"
+
+#~ msgid "Indexing file content"
+#~ msgstr "Bestandsinhoud indexeren"
+
+#~ msgid "Checking for unindexed files"
+#~ msgstr "Controleren op niet geïndexeerde bestanden"
+
+#~ msgid "Checking for stale index entries"
+#~ msgstr "Controleren op verouderde indexitems"
+
+#~ msgid "Idle (Powersave)"
+#~ msgstr "Inactief (Powersave)"
+
+#~ msgid "Not Running"
+#~ msgstr "Niet actief"
+
+#~ msgid "Starting"
+#~ msgstr "Bezig met starten"
+
+#~ msgid "Maintainer"
+#~ msgstr "Onderhouder"
+
+#~ msgid "Start the file indexer"
+#~ msgstr "De bestandenindexering starten"
+
+#~ msgid "Stop the file indexer"
+#~ msgstr "De bestandenindexering stoppen"
+
+#~ msgid "Restart the file indexer"
+#~ msgstr "De bestandenindexering opnieuw starten"
+
+#~ msgid "Indexed %1 / %2 files"
+#~ msgstr "Geïndexeerd %1 / %2 bestanden"
+
+#~ msgid "Parent folder %1 is already in the list of include folders"
+#~ msgstr "Moedermap %1 zit al in de lijst van in te sluiten mappen"
+
+#~ msgid "Parent folder %1 is already in the list of exclude folders"
+#~ msgstr "Moedermap %1 zit al in de lijst van uit te sluiten mappen"
+
+#~ msgctxt "Application"
+#~ msgid "%1 is running"
+#~ msgstr "%1 is actief"
+
+#~ msgctxt "Application"
+#~ msgid "%1 died"
+#~ msgstr "%1 stopte onverwacht"
+
+#~ msgid "Check database for consistency"
+#~ msgstr "Consistentie van database controleren"
+
+#~ msgid "Baloo died"
+#~ msgstr "Baloo is gestopt"
+
+#~ msgid "Must provide a value"
+#~ msgstr "Moet een waarde leveren"

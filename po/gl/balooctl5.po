@@ -482,3 +482,69 @@ msgstr "O tamaño actual do índice é %1."
 #| msgid "Index does not exist yet"
 msgid "Index does not exist yet\n"
 msgstr "O índice aínda non existe."
+
+#~ msgid "Unknown"
+#~ msgstr "Descoñecido"
+
+#~ msgid "Idle"
+#~ msgstr "Inactivo"
+
+#~ msgid "Suspended"
+#~ msgstr "Pausada"
+
+#~ msgid "Initial Indexing"
+#~ msgstr "Indexación inicial"
+
+#~ msgid "Indexing new files"
+#~ msgstr "Indexando ficheiros novos"
+
+#~ msgid "Indexing modified files"
+#~ msgstr "Indexando ficheiros modificados"
+
+#~ msgid "Indexing Extended Attributes"
+#~ msgstr "Indexando atributos adicionais"
+
+#~ msgid "Indexing file content"
+#~ msgstr "Indexando o contido dos ficheiros"
+
+#~ msgid "Checking for unindexed files"
+#~ msgstr "Comprobando se hai ficheiros non indexados"
+
+#~ msgid "Checking for stale index entries"
+#~ msgstr "Comprobando se hai entradas obsoletas no índice"
+
+#~ msgid "Idle (Powersave)"
+#~ msgstr "Inactivo (aforro de enerxía)"
+
+#~ msgid "Maintainer"
+#~ msgstr "Mantedor"
+
+#~ msgid "Start the file indexer"
+#~ msgstr "Iniciar o indexador de ficheiros."
+
+#~ msgid "Stop the file indexer"
+#~ msgstr "Deter o indexador de ficheiros."
+
+#~ msgid "Restart the file indexer"
+#~ msgstr "Reiniciar o indexador de ficheiros."
+
+#~ msgid "Indexed %1 / %2 files"
+#~ msgstr "Indexáronse %1 ficheiros de %2."
+
+#~ msgid "Parent folder %1 is already in the list of include folders"
+#~ msgstr "O cartafol superior %1 xa está na lista de ficheiros incluídos."
+
+#~ msgid "Parent folder %1 is already in the list of exclude folders"
+#~ msgstr "O cartafol superior %1 xa está na lista de ficheiros excluídos."
+
+#, fuzzy
+#~| msgid "Baloo is not running"
+#~ msgctxt "Application"
+#~ msgid "%1 is running"
+#~ msgstr "Baloo non se está executando."
+
+#~ msgid "Check database for consistency"
+#~ msgstr "Comprobar a consistencia da base de datos"
+
+#~ msgid "Baloo died"
+#~ msgstr "Baloo morreu."

@@ -462,3 +462,81 @@ msgstr "Indexets nuvarande storlek är %1"
 #, kde-format
 msgid "Index does not exist yet\n"
 msgstr "Indexet finns inte ännu\n"
+
+#~ msgid "Unknown"
+#~ msgstr "Okänd"
+
+#~ msgid "Idle"
+#~ msgstr "Overksam"
+
+#~ msgid "Suspended"
+#~ msgstr "Tillfälligt stoppad"
+
+#~ msgid "Initial Indexing"
+#~ msgstr "Inledande indexering"
+
+#~ msgid "Indexing new files"
+#~ msgstr "Indexerar nya filer"
+
+#~ msgid "Indexing modified files"
+#~ msgstr "Indexerar ändrade filer"
+
+#~ msgid "Indexing Extended Attributes"
+#~ msgstr "Indexerar utökade attribut"
+
+#~ msgid "Indexing file content"
+#~ msgstr "Indexerar filinnehåll"
+
+#~ msgid "Checking for unindexed files"
+#~ msgstr "Kontrollerar om det finns ej indexerade filer"
+
+#~ msgid "Checking for stale index entries"
+#~ msgstr "Kontrollerar om det finns inaktuella indexposter"
+
+#~ msgid "Idle (Powersave)"
+#~ msgstr "Overksam (sparar ström)"
+
+#~ msgid "Not Running"
+#~ msgstr "Kör inte"
+
+#~ msgid "Starting"
+#~ msgstr "Startar"
+
+#~ msgid "Maintainer"
+#~ msgstr "Underhåll"
+
+#~ msgid "Start the file indexer"
+#~ msgstr "Starta filindexering"
+
+#~ msgid "Stop the file indexer"
+#~ msgstr "Avsluta filindexering"
+
+#~ msgid "Restart the file indexer"
+#~ msgstr "Starta om filindexering"
+
+#~ msgid "Indexed %1 / %2 files"
+#~ msgstr "Indexerar %1/%2 filer"
+
+#~ msgid "Parent folder %1 is already in the list of include folders"
+#~ msgstr ""
+#~ "Överliggande katalog %1 är redan i listan över inkluderade kataloger"
+
+#~ msgid "Parent folder %1 is already in the list of exclude folders"
+#~ msgstr "Överliggande katalog %1 är redan i listan över undantagna kataloger"
+
+#~ msgctxt "Application"
+#~ msgid "%1 is running"
+#~ msgstr "%1 är startad"
+
+#~ msgctxt "Application"
+#~ msgid "%1 died"
+#~ msgstr "%1 dog"
+
+#~ msgid "Check database for consistency"
+#~ msgstr "Kontrollera databasens konsistens"
+
+#~ msgid "Baloo died"
+#~ msgstr "Baloo avslutades oväntat"
+
+#~ msgid "Must provide a value"
+#~ msgstr "Måste ange ett värde"

@@ -106,3 +106,18 @@ msgstr "%1 er ikke en gyldig mappe"
 #, kde-format
 msgid "Elapsed: %1 msecs"
 msgstr "Forløbet: %1 ms"
+
+#~ msgid "Maintainer"
+#~ msgstr "Vedligeholder"
+
+#~ msgid "Baloo Search - A debugging tool"
+#~ msgstr "Baloo søgning - Et fejlsøgningsværktøj"
+
+#~ msgid "(c) 2013-15, Vishesh Handa"
+#~ msgstr "(c) 2013-15, Vishesh Handa"
+
+#~ msgid "Number of results to return"
+#~ msgstr "Antal fund der skal returneres"
+
+#~ msgid "If set, search through emails"
+#~ msgstr "Hvis sat søges der i e-mails"

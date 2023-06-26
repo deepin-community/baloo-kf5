@@ -107,3 +107,20 @@ msgstr "%1 non es un valide directorio"
 #, kde-format
 msgid "Elapsed: %1 msecs"
 msgstr "Expirate: %1 msecs"
+
+#~ msgid "Maintainer"
+#~ msgstr "Mantenitor"
+
+#~ msgid "Baloo Search - A debugging tool"
+#~ msgstr "Baloo Search - un instrumento de cribrar"
+
+#, fuzzy
+#~| msgid "(c) 2013, Vishesh Handa"
+#~ msgid "(c) 2013-15, Vishesh Handa"
+#~ msgstr "(C) 20013, Vishesh Handa"
+
+#~ msgid "Number of results to return"
+#~ msgstr "Numero de exitos de retornar"
+
+#~ msgid "If set, search through emails"
+#~ msgstr "Si fixate, cerca per messages de e-posta"

@@ -465,3 +465,77 @@ msgstr "Indeksin nykyinen koko on %1"
 #, kde-format
 msgid "Index does not exist yet\n"
 msgstr "Indeksiä ei ole vielä olemassa\n"
+
+#~ msgid "Unknown"
+#~ msgstr "Tuntematon"
+
+#~ msgid "Idle"
+#~ msgstr "Jouten"
+
+#~ msgid "Suspended"
+#~ msgstr "Keskeytetty"
+
+#~ msgid "Initial Indexing"
+#~ msgstr "Alustava indeksointi"
+
+#~ msgid "Indexing new files"
+#~ msgstr "Indeksoidaan uusia tiedostoja"
+
+#~ msgid "Indexing modified files"
+#~ msgstr "Indeksoidaan muuttuneita tiedostoja"
+
+#~ msgid "Indexing Extended Attributes"
+#~ msgstr "Indeksoidaan laajennettuja määritteitä"
+
+#~ msgid "Indexing file content"
+#~ msgstr "Indeksoidaan tiedostojen sisältöä"
+
+#~ msgid "Checking for unindexed files"
+#~ msgstr "Etsitään indeksoimattomia tiedostoja"
+
+#~ msgid "Checking for stale index entries"
+#~ msgstr "Etsitään vanhentuneita indeksitietueita"
+
+#~ msgid "Idle (Powersave)"
+#~ msgstr "Jouten (virransäästö)"
+
+#~ msgid "Not Running"
+#~ msgstr "Ei käynnissä"
+
+#~ msgid "Starting"
+#~ msgstr "Käynnistetään"
+
+#~ msgid "Maintainer"
+#~ msgstr "Ylläpitäjä"
+
+#~ msgid "Start the file indexer"
+#~ msgstr "Käynnistä tiedostoindeksoija"
+
+#~ msgid "Stop the file indexer"
+#~ msgstr "Pysäytä tiedostoindeksoija"
+
+#~ msgid "Restart the file indexer"
+#~ msgstr "Käynnistä tiedostoindeksoija uudelleen"
+
+#~ msgid "Indexed %1 / %2 files"
+#~ msgstr "Indeksoitu %1/%2 tiedostoa"
+
+#~ msgid "Parent folder %1 is already in the list of include folders"
+#~ msgstr "Yläkansio %1 on jo sisällytettävien kansioiden luettelossa"
+
+#~ msgid "Parent folder %1 is already in the list of exclude folders"
+#~ msgstr "Yläkansio %1 on jo ohitettavien kansioiden listassa"
+
+#~ msgctxt "Application"
+#~ msgid "%1 is running"
+#~ msgstr "%1 on käynnissä"
+
+#~ msgctxt "Application"
+#~ msgid "%1 died"
+#~ msgstr "%1 kuoli"
+
+#~ msgid "Check database for consistency"
+#~ msgstr "Tarkista tietokannan eheys"
+
+#~ msgid "Must provide a value"
+#~ msgstr "Arvo täytyy antaa"

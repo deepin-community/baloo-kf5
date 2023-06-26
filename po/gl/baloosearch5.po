@@ -107,3 +107,18 @@ msgstr ""
 #, kde-format
 msgid "Elapsed: %1 msecs"
 msgstr "Transcorrido: %1 msegs"
+
+#~ msgid "Maintainer"
+#~ msgstr "Mantedor"
+
+#~ msgid "Baloo Search - A debugging tool"
+#~ msgstr "Buscar con Baloo; unha ferramenta de depuración"
+
+#~ msgid "(c) 2013-15, Vishesh Handa"
+#~ msgstr "© 2013-2015 Vishesh Handa"
+
+#~ msgid "Number of results to return"
+#~ msgstr "Número máximo de resultados a devolver"
+
+#~ msgid "If set, search through emails"
+#~ msgstr "Se a escolle, busca nos correos"

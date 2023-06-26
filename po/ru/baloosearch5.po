@@ -108,3 +108,18 @@ msgstr "«%1» не является верным каталогом"
 #, kde-format
 msgid "Elapsed: %1 msecs"
 msgstr "Затрачено: %1 мс"
+
+#~ msgid "Maintainer"
+#~ msgstr "Сопровождающий"
+
+#~ msgid "Baloo Search - A debugging tool"
+#~ msgstr "Поиск в Baloo: инструмент для отладки"
+
+#~ msgid "(c) 2013-15, Vishesh Handa"
+#~ msgstr "© Vishesh Handa, 2013–2015"
+
+#~ msgid "Number of results to return"
+#~ msgstr "Число результатов поиска, которые следует вывести"
+
+#~ msgid "If set, search through emails"
+#~ msgstr "Искать в электронных письмах"

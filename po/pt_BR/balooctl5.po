@@ -466,3 +466,45 @@ msgstr "O tamanho atual do índice é %1"
 #, kde-format
 msgid "Index does not exist yet\n"
 msgstr "O índice ainda não existe\n"
+
+#~ msgid "Unknown"
+#~ msgstr "Desconhecido"
+
+#~ msgid "Idle"
+#~ msgstr "Ocioso"
+
+#~ msgid "Suspended"
+#~ msgstr "Suspenso"
+
+#~ msgid "Initial Indexing"
+#~ msgstr "Indexação inicial"
+
+#~ msgid "Indexing new files"
+#~ msgstr "Indexando os novos arquivos"
+
+#~ msgid "Indexing modified files"
+#~ msgstr "Indexando os arquivos modificados"
+
+#~ msgid "Indexing Extended Attributes"
+#~ msgstr "Indexando os atributos estendidos"
+
+#~ msgid "Indexing file content"
+#~ msgstr "Indexando o conteúdo do arquivo"
+
+#~ msgid "Checking for unindexed files"
+#~ msgstr "Procurando arquivos não indexados"
+
+#~ msgid "Checking for stale index entries"
+#~ msgstr "Procurando entradas do índice obsoletas"
+
+#~ msgid "Idle (Powersave)"
+#~ msgstr "Ocioso (economia de energia)"
+
+#~ msgid "Not Running"
+#~ msgstr "Parado"
+
+#~ msgid "Starting"
+#~ msgstr "Iniciando"
+
+#~ msgid "Maintainer"
+#~ msgstr "Mantenedor"

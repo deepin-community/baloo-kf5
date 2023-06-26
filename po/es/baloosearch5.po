@@ -108,3 +108,12 @@ msgstr "%1 no es un directorio válido"
 #, kde-format
 msgid "Elapsed: %1 msecs"
 msgstr "Tiempo transcurrido: %1 ms"
+
+#~ msgid "Maintainer"
+#~ msgstr "Encargado"
+
+#~ msgid "Baloo Search - A debugging tool"
+#~ msgstr "Búsqueda de Baloo - Una herramienta de depuración"
+
+#~ msgid "(c) 2013-15, Vishesh Handa"
+#~ msgstr "© 2013-2015, Vishesh Handa"

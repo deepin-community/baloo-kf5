@@ -464,3 +464,62 @@ msgstr "الحجم الحالي للفهرس هو %1"
 #, kde-format
 msgid "Index does not exist yet\n"
 msgstr "الفهرس ليس موجودًا بعد\n"
+
+#~ msgid "Unknown"
+#~ msgstr "مجهولة"
+
+#~ msgid "Idle"
+#~ msgstr "خامل"
+
+#~ msgid "Suspended"
+#~ msgstr "مُرجأ"
+
+#~ msgid "Initial Indexing"
+#~ msgstr "الفهرسة الأولية"
+
+#~ msgid "Indexing new files"
+#~ msgstr "يُفهرس الملفات الجديدة"
+
+#~ msgid "Indexing modified files"
+#~ msgstr "يُفهرس الملفات المعدلة"
+
+#~ msgid "Indexing Extended Attributes"
+#~ msgstr "يُفهرس الخصائص الممتدة"
+
+#~ msgid "Indexing file content"
+#~ msgstr "يُفهرس محتويات الملفات"
+
+#~ msgid "Checking for unindexed files"
+#~ msgstr "يفحص بحثًا عن الملفات غير المفهرسة"
+
+#, fuzzy
+#~| msgid "Checking for unindexed files"
+#~ msgid "Checking for stale index entries"
+#~ msgstr "يفحص بحثًا عن الملفات غير المفهرسة"
+
+#~ msgid "Maintainer"
+#~ msgstr "المصين"
+
+#~ msgid "Start the file indexer"
+#~ msgstr "يبدأ مفهرس الملفات"
+
+#~ msgid "Stop the file indexer"
+#~ msgstr "يُوقف مفهرس الملفات"
+
+#~ msgid "Restart the file indexer"
+#~ msgstr "يُعيد تشغيل مفهرس الملفات"
+
+#~ msgid "Indexed %1 / %2 files"
+#~ msgstr "فُهرست %1 / %2 من الملفات"
+
+#~ msgid "Parent folder %1 is already in the list of include folders"
+#~ msgstr "المجلد الأبّ %1 موجود بالفعل في قائمة مجلدات التضمين"
+
+#~ msgid "Parent folder %1 is already in the list of exclude folders"
+#~ msgstr "المجلّد الأبّ %1 موجود بالفعل في قائمة مجلدات الاستثناء"
+
+#, fuzzy
+#~| msgid "Baloo File Indexer is not running"
+#~ msgctxt "Application"
+#~ msgid "%1 is running"
+#~ msgstr "مفهرس «بالو» للملفّات لا يعمل"
